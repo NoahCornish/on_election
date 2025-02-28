@@ -1,0 +1,4858 @@
+{
+    "Ajax": [
+        {
+            "Candidate": "CERJANEC, ROBERT",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,499",
+            "Percentage": "44.99%"
+        },
+        {
+            "Candidate": "BARNES, PATRICE",
+            "Party": "PC Party of Ontario",
+            "Votes": "18,168",
+            "Percentage": "44.19%"
+        },
+        {
+            "Candidate": "AUGUSTINE, ARTHUR",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,884",
+            "Percentage": "7.01%"
+        },
+        {
+            "Candidate": "FEFERMAN, CORY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "840",
+            "Percentage": "2.04%"
+        },
+        {
+            "Candidate": "REES, CHRIS",
+            "Party": "New Blue Party",
+            "Votes": "412",
+            "Percentage": "1.00%"
+        },
+        {
+            "Candidate": "QURESHI, SARAH",
+            "Party": "CPO",
+            "Votes": "313",
+            "Percentage": "0.76%"
+        }
+    ],
+    "Algoma—Manitoulin": [
+        {
+            "Candidate": "ROSENBERG, BILL",
+            "Party": "PC Party of Ontario",
+            "Votes": "11,263",
+            "Percentage": "41.33%"
+        },
+        {
+            "Candidate": "TIMERISKI, DAVID",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,409",
+            "Percentage": "27.19%"
+        },
+        {
+            "Candidate": "NIGANOBE, REG",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,948",
+            "Percentage": "14.49%"
+        },
+        {
+            "Candidate": "MANTHA, MICHAEL",
+            "Party": "INDEPENDENT",
+            "Votes": "3,238",
+            "Percentage": "11.88%"
+        },
+        {
+            "Candidate": "PRESSEY, SHELDON",
+            "Party": "New Blue Party",
+            "Votes": "717",
+            "Percentage": "2.63%"
+        },
+        {
+            "Candidate": "LEGAULT, MARIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "677",
+            "Percentage": "2.48%"
+        }
+    ],
+    "Aurora—Oak Ridges—Richmond Hill": [
+        {
+            "Candidate": "PARSA, MICHAEL",
+            "Party": "PC Party of Ontario",
+            "Votes": "19,532",
+            "Percentage": "57.21%"
+        },
+        {
+            "Candidate": "CHERNIAK, JASON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,568",
+            "Percentage": "33.88%"
+        },
+        {
+            "Candidate": "SAEED, NAILA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,907",
+            "Percentage": "5.59%"
+        },
+        {
+            "Candidate": "KAHN, IKRAM",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "594",
+            "Percentage": "1.74%"
+        },
+        {
+            "Candidate": "WISEMAN, ROSARIA",
+            "Party": "New Blue Party",
+            "Votes": "542",
+            "Percentage": "1.59%"
+        }
+    ],
+    "Barrie—Innisfil": [
+        {
+            "Candidate": "KHANJIN, ANDREA",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,048",
+            "Percentage": "53.47%"
+        },
+        {
+            "Candidate": "LEE, DANE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,613",
+            "Percentage": "25.74%"
+        },
+        {
+            "Candidate": "HARRIGAN, ANDREW",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,585",
+            "Percentage": "13.54%"
+        },
+        {
+            "Candidate": "CIESIELSKI, STEPHEN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,844",
+            "Percentage": "4.47%"
+        },
+        {
+            "Candidate": "MANGIAPANE, SAM",
+            "Party": "New Blue Party",
+            "Votes": "971",
+            "Percentage": "2.35%"
+        },
+        {
+            "Candidate": "YURYEVA, ANNA",
+            "Party": "Ontario Moderate Party",
+            "Votes": "174",
+            "Percentage": "0.42%"
+        }
+    ],
+    "Barrie—Springwater—Oro-Medonte": [
+        {
+            "Candidate": "DOWNEY, DOUG",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,011",
+            "Percentage": "49.85%"
+        },
+        {
+            "Candidate": "ZACHARIAS, ROSE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,325",
+            "Percentage": "35.68%"
+        },
+        {
+            "Candidate": "LAPHAM, TRACEY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,677",
+            "Percentage": "6.67%"
+        },
+        {
+            "Candidate": "GRANT, TIM",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,622",
+            "Percentage": "4.04%"
+        },
+        {
+            "Candidate": "DELLA VENTURA, ALEX",
+            "Party": "New Blue Party",
+            "Votes": "865",
+            "Percentage": "2.15%"
+        },
+        {
+            "Candidate": "PATTERSON, ERIN",
+            "Party": "Libertarian",
+            "Votes": "644",
+            "Percentage": "1.60%"
+        }
+    ],
+    "Bay of Quinte": [
+        {
+            "Candidate": "ALLSOPP, TYLER",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,999",
+            "Percentage": "44.42%"
+        },
+        {
+            "Candidate": "O'NEIL, DAVID",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,883",
+            "Percentage": "31.48%"
+        },
+        {
+            "Candidate": "ROBERTSON, AMANDA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "8,745",
+            "Percentage": "18.50%"
+        },
+        {
+            "Candidate": "BORTHWICK, LORI",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,612",
+            "Percentage": "3.41%"
+        },
+        {
+            "Candidate": "ZAMBITO, ANTHONY",
+            "Party": "New Blue Party",
+            "Votes": "526",
+            "Percentage": "1.11%"
+        },
+        {
+            "Candidate": "MADDISON, NICK",
+            "Party": "Ontario Party",
+            "Votes": "507",
+            "Percentage": "1.07%"
+        }
+    ],
+    "Beaches—East York": [
+        {
+            "Candidate": "MCMAHON, MARY-MARGARET",
+            "Party": "Ontario Liberal Party",
+            "Votes": "21,545",
+            "Percentage": "51.21%"
+        },
+        {
+            "Candidate": "DUPUIS, KATE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "9,660",
+            "Percentage": "22.96%"
+        },
+        {
+            "Candidate": "MICHAELIDIS, ANNA",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,001",
+            "Percentage": "21.39%"
+        },
+        {
+            "Candidate": "PENNINGS, JACK",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,298",
+            "Percentage": "3.09%"
+        },
+        {
+            "Candidate": "GREGORY, THOMAS",
+            "Party": "New Blue Party",
+            "Votes": "231",
+            "Percentage": "0.55%"
+        },
+        {
+            "Candidate": "STARK, PAUL",
+            "Party": "Ontario Party",
+            "Votes": "117",
+            "Percentage": "0.28%"
+        },
+        {
+            "Candidate": "CIMESA, DRAGAN",
+            "Party": "INDEPENDENT",
+            "Votes": "117",
+            "Percentage": "0.28%"
+        },
+        {
+            "Candidate": "YAZDANFAR, BAHMAN",
+            "Party": "CCP",
+            "Votes": "103",
+            "Percentage": "0.24%"
+        }
+    ],
+    "Brampton Centre": [
+        {
+            "Candidate": "WILLIAMS, CHARMAINE",
+            "Party": "PC Party of Ontario",
+            "Votes": "12,466",
+            "Percentage": "51.97%"
+        },
+        {
+            "Candidate": "MEDEIROS, MARTIN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,098",
+            "Percentage": "33.76%"
+        },
+        {
+            "Candidate": "SINGH, SUKHAMRIT",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,109",
+            "Percentage": "8.79%"
+        },
+        {
+            "Candidate": "THORNHAM, PAULINE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "892",
+            "Percentage": "3.72%"
+        },
+        {
+            "Candidate": "KAUR, KAMAL PREET",
+            "Party": "New Blue Party",
+            "Votes": "423",
+            "Percentage": "1.76%"
+        }
+    ],
+    "Brampton East": [
+        {
+            "Candidate": "GREWAL, HARDEEP",
+            "Party": "PC Party of Ontario",
+            "Votes": "14,795",
+            "Percentage": "51.81%"
+        },
+        {
+            "Candidate": "DHILLON, VICKY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,519",
+            "Percentage": "29.83%"
+        },
+        {
+            "Candidate": "SINGH, MARTIN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,106",
+            "Percentage": "10.88%"
+        },
+        {
+            "Candidate": "GOYAT, AZAD",
+            "Party": "INDEPENDENT",
+            "Votes": "1,376",
+            "Percentage": "4.82%"
+        },
+        {
+            "Candidate": "PORTEOUS, NANCY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "762",
+            "Percentage": "2.67%"
+        }
+    ],
+    "Brampton North": [
+        {
+            "Candidate": "MCGREGOR, GRAHAM",
+            "Party": "PC Party of Ontario",
+            "Votes": "17,597",
+            "Percentage": "57.52%"
+        },
+        {
+            "Candidate": "BAGGA, RANJIT SINGH",
+            "Party": "Ontario Liberal Party",
+            "Votes": "9,270",
+            "Percentage": "30.30%"
+        },
+        {
+            "Candidate": "ZAMAN, RUBY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,479",
+            "Percentage": "8.10%"
+        },
+        {
+            "Candidate": "FALCON KHAN, SAMEERA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "746",
+            "Percentage": "2.44%"
+        },
+        {
+            "Candidate": "PORTE, MELANIE",
+            "Party": "New Blue Party",
+            "Votes": "499",
+            "Percentage": "1.63%"
+        }
+    ],
+    "Brampton South": [
+        {
+            "Candidate": "SARKARIA, PRABMEET SINGH",
+            "Party": "PC Party of Ontario",
+            "Votes": "15,371",
+            "Percentage": "52.90%"
+        },
+        {
+            "Candidate": "PARIKH, BHAVIK",
+            "Party": "Ontario Liberal Party",
+            "Votes": "9,324",
+            "Percentage": "32.09%"
+        },
+        {
+            "Candidate": "SHARMA, RAJNI",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,410",
+            "Percentage": "8.29%"
+        },
+        {
+            "Candidate": "NOLAN, JOHNNY",
+            "Party": "New Blue Party",
+            "Votes": "1,039",
+            "Percentage": "3.58%"
+        },
+        {
+            "Candidate": "BOYAL, RAJINDER",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "911",
+            "Percentage": "3.14%"
+        }
+    ],
+    "Brampton West": [
+        {
+            "Candidate": "SANDHU, AMARJOT",
+            "Party": "PC Party of Ontario",
+            "Votes": "19,029",
+            "Percentage": "56.58%"
+        },
+        {
+            "Candidate": "KANIA, ANDREW",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,933",
+            "Percentage": "32.51%"
+        },
+        {
+            "Candidate": "SARJEANT, SAMUEL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,981",
+            "Percentage": "5.89%"
+        },
+        {
+            "Candidate": "RUSSELL, ETHAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "877",
+            "Percentage": "2.61%"
+        },
+        {
+            "Candidate": "PARDY, DAVID",
+            "Party": "New Blue Party",
+            "Votes": "554",
+            "Percentage": "1.65%"
+        },
+        {
+            "Candidate": "SIDHU, PUSHPEK",
+            "Party": "INDEPENDENT",
+            "Votes": "260",
+            "Percentage": "0.77%"
+        }
+    ],
+    "Brantford—Brant": [
+        {
+            "Candidate": "BOUMA, WILL",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,169",
+            "Percentage": "47.26%"
+        },
+        {
+            "Candidate": "BISCHOF, HARVEY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "12,002",
+            "Percentage": "23.47%"
+        },
+        {
+            "Candidate": "FOX, RON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,364",
+            "Percentage": "20.27%"
+        },
+        {
+            "Candidate": "CSORDAS, KARLEIGH",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,567",
+            "Percentage": "5.02%"
+        },
+        {
+            "Candidate": "CARRON, JOSHUA",
+            "Party": "New Blue Party",
+            "Votes": "1,138",
+            "Percentage": "2.23%"
+        },
+        {
+            "Candidate": "FERGUSON, ROB",
+            "Party": "Libertarian",
+            "Votes": "500",
+            "Percentage": "0.98%"
+        },
+        {
+            "Candidate": "CLANCY, MIKE",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "316",
+            "Percentage": "0.62%"
+        },
+        {
+            "Candidate": "CARRUTHERS, JAMES",
+            "Party": "Alliance",
+            "Votes": "83",
+            "Percentage": "0.16%"
+        }
+    ],
+    "Bruce—Grey—Owen Sound": [
+        {
+            "Candidate": "VICKERS, PAUL",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,158",
+            "Percentage": "44.14%"
+        },
+        {
+            "Candidate": "HICKS, SELWYN J.",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,445",
+            "Percentage": "29.44%"
+        },
+        {
+            "Candidate": "LOUGHEAD, JOEL",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "5,693",
+            "Percentage": "12.47%"
+        },
+        {
+            "Candidate": "HARRIS, JAMES",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,611",
+            "Percentage": "7.91%"
+        },
+        {
+            "Candidate": "GILLIES, ANN",
+            "Party": "Stop the New Sex-Ed Agenda",
+            "Votes": "1,006",
+            "Percentage": "2.20%"
+        },
+        {
+            "Candidate": "GRIMALDI, VINCENT",
+            "Party": "New Blue Party",
+            "Votes": "930",
+            "Percentage": "2.04%"
+        },
+        {
+            "Candidate": "BUTT, MICHAEL",
+            "Party": "Libertarian",
+            "Votes": "679",
+            "Percentage": "1.49%"
+        },
+        {
+            "Candidate": "FRITZ, MATT",
+            "Party": "Alliance",
+            "Votes": "148",
+            "Percentage": "0.32%"
+        }
+    ],
+    "Burlington": [
+        {
+            "Candidate": "PIERRE, NATALIE",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,118",
+            "Percentage": "43.14%"
+        },
+        {
+            "Candidate": "GREBENC, ANDREA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "24,078",
+            "Percentage": "43.07%"
+        },
+        {
+            "Candidate": "BEAUCHEMIN, MEGAN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,487",
+            "Percentage": "8.03%"
+        },
+        {
+            "Candidate": "HUTTON, KYLE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,913",
+            "Percentage": "3.42%"
+        },
+        {
+            "Candidate": "CHILLINGWORTH, JAMES CHILLI",
+            "Party": "New Blue Party",
+            "Votes": "727",
+            "Percentage": "1.30%"
+        },
+        {
+            "Candidate": "CROMBIE, DAVID",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "582",
+            "Percentage": "1.04%"
+        }
+    ],
+    "Cambridge": [
+        {
+            "Candidate": "RIDDELL, BRIAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "19,195",
+            "Percentage": "43.70%"
+        },
+        {
+            "Candidate": "DEUTSCHMANN, ROB",
+            "Party": "Ontario Liberal Party",
+            "Votes": "15,121",
+            "Percentage": "34.42%"
+        },
+        {
+            "Candidate": "KNIGHT, MARJORIE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,073",
+            "Percentage": "11.55%"
+        },
+        {
+            "Candidate": "JOHNSON, CARLA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,515",
+            "Percentage": "5.73%"
+        },
+        {
+            "Candidate": "KARAHALIOS, BELINDA",
+            "Party": "New Blue Party",
+            "Votes": "2,025",
+            "Percentage": "4.61%"
+        }
+    ],
+    "Carleton": [
+        {
+            "Candidate": "DAROUZE, GEORGE",
+            "Party": "PC Party of Ontario",
+            "Votes": "26,158",
+            "Percentage": "49.66%"
+        },
+        {
+            "Candidate": "BAY, BRANDON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "20,335",
+            "Percentage": "38.60%"
+        },
+        {
+            "Candidate": "FAILI, SHERIN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,715",
+            "Percentage": "7.05%"
+        },
+        {
+            "Candidate": "PLAUNT, MYSTIC",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "958",
+            "Percentage": "1.82%"
+        },
+        {
+            "Candidate": "STOCKI, ROB",
+            "Party": "New Blue Party",
+            "Votes": "699",
+            "Percentage": "1.33%"
+        },
+        {
+            "Candidate": "DEAR, MYLES",
+            "Party": "Ontario Party",
+            "Votes": "346",
+            "Percentage": "0.66%"
+        },
+        {
+            "Candidate": "FAULKNER, BRUCE ANTHONY",
+            "Party": "Libertarian",
+            "Votes": "263",
+            "Percentage": "0.50%"
+        },
+        {
+            "Candidate": "HULL, BRIAN",
+            "Party": "INDEPENDENT",
+            "Votes": "202",
+            "Percentage": "0.38%"
+        }
+    ],
+    "Chatham-Kent—Leamington": [
+        {
+            "Candidate": "JONES, TREVOR",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,250",
+            "Percentage": "52.02%"
+        },
+        {
+            "Candidate": "KIRBY, BILL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,856",
+            "Percentage": "18.37%"
+        },
+        {
+            "Candidate": "SACHS, CHRISTIAN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,333",
+            "Percentage": "17.14%"
+        },
+        {
+            "Candidate": "JUBENVILLE, RHONDA",
+            "Party": "New Blue Party",
+            "Votes": "3,387",
+            "Percentage": "7.92%"
+        },
+        {
+            "Candidate": "DAVEY, MATTHEW",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,241",
+            "Percentage": "2.90%"
+        },
+        {
+            "Candidate": "ST-LAURENT, PHILLIP",
+            "Party": "Ontario Party",
+            "Votes": "704",
+            "Percentage": "1.65%"
+        }
+    ],
+    "Davenport": [
+        {
+            "Candidate": "STILES, MARIT",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "22,145",
+            "Percentage": "57.21%"
+        },
+        {
+            "Candidate": "PEREIRA, PAULO",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,883",
+            "Percentage": "20.37%"
+        },
+        {
+            "Candidate": "PAVLOV, NICK",
+            "Party": "PC Party of Ontario",
+            "Votes": "6,937",
+            "Percentage": "17.92%"
+        },
+        {
+            "Candidate": "RAMDEEN, RANDI",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,184",
+            "Percentage": "3.06%"
+        },
+        {
+            "Candidate": "MCKEE, DAVE",
+            "Party": "Communist",
+            "Votes": "556",
+            "Percentage": "1.44%"
+        }
+    ],
+    "Don Valley East": [
+        {
+            "Candidate": "SHAMJI, ADIL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "15,797",
+            "Percentage": "56.61%"
+        },
+        {
+            "Candidate": "GINGERICH, ROGER",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,006",
+            "Percentage": "32.28%"
+        },
+        {
+            "Candidate": "CHU, FRANK",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,118",
+            "Percentage": "7.59%"
+        },
+        {
+            "Candidate": "MIERSCH, JOSHUA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "794",
+            "Percentage": "2.85%"
+        },
+        {
+            "Candidate": "PENKOV, KRASIMIR",
+            "Party": "Ontario Moderate Party",
+            "Votes": "188",
+            "Percentage": "0.67%"
+        }
+    ],
+    "Don Valley North": [
+        {
+            "Candidate": "TSAO, JONATHAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,375",
+            "Percentage": "43.77%"
+        },
+        {
+            "Candidate": "LIU, SUE",
+            "Party": "PC Party of Ontario",
+            "Votes": "11,484",
+            "Percentage": "37.58%"
+        },
+        {
+            "Candidate": "KE, VINCENT",
+            "Party": "INDEPENDENT",
+            "Votes": "3,005",
+            "Percentage": "9.83%"
+        },
+        {
+            "Candidate": "ASTARAKI, EBRAHIM",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,562",
+            "Percentage": "5.11%"
+        },
+        {
+            "Candidate": "ARMSTRONG, ANDREW",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "784",
+            "Percentage": "2.57%"
+        },
+        {
+            "Candidate": "NOLAN, ANNIE",
+            "Party": "New Blue Party",
+            "Votes": "346",
+            "Percentage": "1.13%"
+        }
+    ],
+    "Don Valley West": [
+        {
+            "Candidate": "BOWMAN, STEPHANIE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,350",
+            "Percentage": "57.21%"
+        },
+        {
+            "Candidate": "MOINI, SAM",
+            "Party": "PC Party of Ontario",
+            "Votes": "10,871",
+            "Percentage": "33.89%"
+        },
+        {
+            "Candidate": "LÖFSTRÖM-ABARY, LINNEA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,268",
+            "Percentage": "3.95%"
+        },
+        {
+            "Candidate": "SHARP, SHEENA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,052",
+            "Percentage": "3.28%"
+        },
+        {
+            "Candidate": "HOBBS, LAUREL",
+            "Party": "New Blue Party",
+            "Votes": "287",
+            "Percentage": "0.89%"
+        },
+        {
+            "Candidate": "ABDULSALAM, BAHIRA",
+            "Party": "INDEPENDENT",
+            "Votes": "247",
+            "Percentage": "0.77%"
+        }
+    ],
+    "Dufferin—Caledon": [
+        {
+            "Candidate": "JONES, SYLVIA",
+            "Party": "PC Party of Ontario",
+            "Votes": "26,072",
+            "Percentage": "52.18%"
+        },
+        {
+            "Candidate": "DEHN, MICHAEL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,606",
+            "Percentage": "25.23%"
+        },
+        {
+            "Candidate": "BROWN, SANDY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "6,157",
+            "Percentage": "12.32%"
+        },
+        {
+            "Candidate": "NAKITSAS, GEORGE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,184",
+            "Percentage": "6.37%"
+        },
+        {
+            "Candidate": "EGGLETON, KRIS",
+            "Party": "New Blue Party",
+            "Votes": "1,074",
+            "Percentage": "2.15%"
+        },
+        {
+            "Candidate": "CHERKASHOV, ALEXEY",
+            "Party": "Ontario Moderate Party",
+            "Votes": "489",
+            "Percentage": "0.98%"
+        },
+        {
+            "Candidate": "HALSALL, JEFFREY",
+            "Party": "INDEPENDENT",
+            "Votes": "384",
+            "Percentage": "0.77%"
+        }
+    ],
+    "Durham": [
+        {
+            "Candidate": "MCCARTHY, TODD",
+            "Party": "PC Party of Ontario",
+            "Votes": "26,969",
+            "Percentage": "50.48%"
+        },
+        {
+            "Candidate": "JAKOBSEN, BRAD",
+            "Party": "Ontario Liberal Party",
+            "Votes": "15,701",
+            "Percentage": "29.39%"
+        },
+        {
+            "Candidate": "BORGIA, CHRIS",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,635",
+            "Percentage": "14.29%"
+        },
+        {
+            "Candidate": "ZECO, SANJIN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,280",
+            "Percentage": "2.40%"
+        },
+        {
+            "Candidate": "LEVENTAKIS, JAMES",
+            "Party": "New Blue Party",
+            "Votes": "666",
+            "Percentage": "1.25%"
+        },
+        {
+            "Candidate": "KHAN, ASIF",
+            "Party": "CPO",
+            "Votes": "635",
+            "Percentage": "1.19%"
+        },
+        {
+            "Candidate": "THURSTON, SHERI",
+            "Party": "Ontario Party",
+            "Votes": "409",
+            "Percentage": "0.77%"
+        },
+        {
+            "Candidate": "KIYANI, FAWAD",
+            "Party": "INDEPENDENT",
+            "Votes": "130",
+            "Percentage": "0.24%"
+        }
+    ],
+    "Eglinton—Lawrence": [
+        {
+            "Candidate": "COOPER, MICHELLE",
+            "Party": "PC Party of Ontario",
+            "Votes": "19,556",
+            "Percentage": "48.48%"
+        },
+        {
+            "Candidate": "GASPARRO, VINCE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "19,389",
+            "Percentage": "48.07%"
+        },
+        {
+            "Candidate": "TYSOE, LEAH",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,390",
+            "Percentage": "3.45%"
+        }
+    ],
+    "Elgin—Middlesex—London": [
+        {
+            "Candidate": "FLACK, ROB",
+            "Party": "PC Party of Ontario",
+            "Votes": "28,719",
+            "Percentage": "55.80%"
+        },
+        {
+            "Candidate": "MACTAVISH, DOUGLAS",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,578",
+            "Percentage": "24.44%"
+        },
+        {
+            "Candidate": "ZAVITZ, AMANDA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,738",
+            "Percentage": "9.21%"
+        },
+        {
+            "Candidate": "STARK, AMANDA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,933",
+            "Percentage": "5.70%"
+        },
+        {
+            "Candidate": "FIGUEIREDO, BRIAN",
+            "Party": "New Blue Party",
+            "Votes": "1,418",
+            "Percentage": "2.76%"
+        },
+        {
+            "Candidate": "LABRIE, COOPER",
+            "Party": "Ontario Party",
+            "Votes": "610",
+            "Percentage": "1.19%"
+        },
+        {
+            "Candidate": "CAMPBELL, STEPHEN R",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "469",
+            "Percentage": "0.91%"
+        }
+    ],
+    "Essex": [
+        {
+            "Candidate": "LEARDI, ANTHONY",
+            "Party": "PC Party of Ontario",
+            "Votes": "30,785",
+            "Percentage": "55.46%"
+        },
+        {
+            "Candidate": "MILLS, RACHAEL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "12,047",
+            "Percentage": "21.70%"
+        },
+        {
+            "Candidate": "STOMP, TAMARA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,707",
+            "Percentage": "15.69%"
+        },
+        {
+            "Candidate": "HIGGINS, STEPHEN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,282",
+            "Percentage": "2.31%"
+        },
+        {
+            "Candidate": "JACQUES, TRAVIS",
+            "Party": "Ontario Party",
+            "Votes": "1,131",
+            "Percentage": "2.04%"
+        },
+        {
+            "Candidate": "BELTON, BRIGITTE",
+            "Party": "New Blue Party",
+            "Votes": "882",
+            "Percentage": "1.59%"
+        },
+        {
+            "Candidate": "LINFIELD, KEVIN",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "469",
+            "Percentage": "0.84%"
+        },
+        {
+            "Candidate": "SZABO VERZOC, WILLIAM",
+            "Party": "INDEPENDENT",
+            "Votes": "204",
+            "Percentage": "0.37%"
+        }
+    ],
+    "Etobicoke Centre": [
+        {
+            "Candidate": "SURMA, KINGA",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,251",
+            "Percentage": "48.10%"
+        },
+        {
+            "Candidate": "CAMPBELL, JOHN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "19,358",
+            "Percentage": "41.84%"
+        },
+        {
+            "Candidate": "VOLPE, GIULIA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,151",
+            "Percentage": "4.65%"
+        },
+        {
+            "Candidate": "MORRIS, BRIAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,000",
+            "Percentage": "2.16%"
+        },
+        {
+            "Candidate": "BILUSIC, MARIO",
+            "Party": "New Blue Party",
+            "Votes": "653",
+            "Percentage": "1.41%"
+        },
+        {
+            "Candidate": "FROMM, PAUL",
+            "Party": "CCP",
+            "Votes": "479",
+            "Percentage": "1.04%"
+        },
+        {
+            "Candidate": "KIERNICKI, RICHARD M.",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "191",
+            "Percentage": "0.41%"
+        },
+        {
+            "Candidate": "MIRANDA, SIGNE",
+            "Party": "Party for People with Special Needs",
+            "Votes": "180",
+            "Percentage": "0.39%"
+        }
+    ],
+    "Etobicoke North": [
+        {
+            "Candidate": "FORD, DOUG",
+            "Party": "PC Party of Ontario",
+            "Votes": "15,120",
+            "Percentage": "59.35%"
+        },
+        {
+            "Candidate": "LUTETE, JULIE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,245",
+            "Percentage": "28.44%"
+        },
+        {
+            "Candidate": "BLAIR, BRYAN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,032",
+            "Percentage": "7.98%"
+        },
+        {
+            "Candidate": "EDWARDS, CHELSEY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "516",
+            "Percentage": "2.03%"
+        },
+        {
+            "Candidate": "D'ANDREA, ANDY",
+            "Party": "Ontario Party",
+            "Votes": "395",
+            "Percentage": "1.55%"
+        },
+        {
+            "Candidate": "GARDNER, JOHN",
+            "Party": "New Blue Party",
+            "Votes": "168",
+            "Percentage": "0.66%"
+        }
+    ],
+    "Etobicoke—Lakeshore": [
+        {
+            "Candidate": "FAIRCLOUGH, LEE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "25,195",
+            "Percentage": "48.52%"
+        },
+        {
+            "Candidate": "HOGARTH, CHRISTINE",
+            "Party": "PC Party of Ontario",
+            "Votes": "21,050",
+            "Percentage": "40.54%"
+        },
+        {
+            "Candidate": "ASRANI, ROZHEN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,640",
+            "Percentage": "7.01%"
+        },
+        {
+            "Candidate": "MCCLOCKLIN, SEAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,218",
+            "Percentage": "2.35%"
+        },
+        {
+            "Candidate": "SISKOS, TONY",
+            "Party": "New Blue Party",
+            "Votes": "452",
+            "Percentage": "0.87%"
+        },
+        {
+            "Candidate": "BERSON, LARISA",
+            "Party": "Ontario Moderate Party",
+            "Votes": "204",
+            "Percentage": "0.39%"
+        },
+        {
+            "Candidate": "NAUDZIUNAS, VITAS",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "165",
+            "Percentage": "0.32%"
+        }
+    ],
+    "Flamborough—Glanbrook": [
+        {
+            "Candidate": "SKELLY, DONNA",
+            "Party": "PC Party of Ontario",
+            "Votes": "23,790",
+            "Percentage": "49.38%"
+        },
+        {
+            "Candidate": "BELL, JOSHUA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "15,135",
+            "Percentage": "31.42%"
+        },
+        {
+            "Candidate": "NOBLE, LILLY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "6,095",
+            "Percentage": "12.65%"
+        },
+        {
+            "Candidate": "ERRYGERS, JANET",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,923",
+            "Percentage": "3.99%"
+        },
+        {
+            "Candidate": "HALFPENNY, KRISTEN",
+            "Party": "New Blue Party",
+            "Votes": "1,233",
+            "Percentage": "2.56%"
+        }
+    ],
+    "Glengarry—Prescott—Russell": [
+        {
+            "Candidate": "SARRAZIN, STÉPHANE",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,518",
+            "Percentage": "51.26%"
+        },
+        {
+            "Candidate": "STEWART, TREVOR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "17,752",
+            "Percentage": "37.11%"
+        },
+        {
+            "Candidate": "FINLAY, RYDER",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,384",
+            "Percentage": "4.98%"
+        },
+        {
+            "Candidate": "RIDEN, THAILA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,089",
+            "Percentage": "2.28%"
+        },
+        {
+            "Candidate": "LABROSSE, FELIX",
+            "Party": "New Blue Party",
+            "Votes": "971",
+            "Percentage": "2.03%"
+        },
+        {
+            "Candidate": "WALLINGFORD, BRANDON",
+            "Party": "Ontario Party",
+            "Votes": "800",
+            "Percentage": "1.67%"
+        },
+        {
+            "Candidate": "ST-LOUIS, JASON",
+            "Party": "INDEPENDENT",
+            "Votes": "321",
+            "Percentage": "0.67%"
+        }
+    ],
+    "Guelph": [
+        {
+            "Candidate": "SCHREINER, MIKE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "34,238",
+            "Percentage": "56.94%"
+        },
+        {
+            "Candidate": "COOLE, ROBERT",
+            "Party": "PC Party of Ontario",
+            "Votes": "14,386",
+            "Percentage": "23.92%"
+        },
+        {
+            "Candidate": "ZUBERI, MUSTAFA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "6,874",
+            "Percentage": "11.43%"
+        },
+        {
+            "Candidate": "SPENCE, CAMERON",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,497",
+            "Percentage": "5.82%"
+        },
+        {
+            "Candidate": "FRASER, CARINA",
+            "Party": "New Blue Party",
+            "Votes": "1,137",
+            "Percentage": "1.89%"
+        }
+    ],
+    "Haldimand—Norfolk": [
+        {
+            "Candidate": "BRADY, BOBBI ANN",
+            "Party": "INDEPENDENT",
+            "Votes": "33,669",
+            "Percentage": "63.65%"
+        },
+        {
+            "Candidate": "MARTIN, AMY",
+            "Party": "PC Party of Ontario",
+            "Votes": "12,949",
+            "Percentage": "24.48%"
+        },
+        {
+            "Candidate": "PATEL, VANDAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "2,918",
+            "Percentage": "5.52%"
+        },
+        {
+            "Candidate": "ENGLERT, ERICA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,147",
+            "Percentage": "4.06%"
+        },
+        {
+            "Candidate": "MASSINEN, ANNA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "821",
+            "Percentage": "1.55%"
+        },
+        {
+            "Candidate": "TANCHAK, GARRY",
+            "Party": "New Blue Party",
+            "Votes": "392",
+            "Percentage": "0.74%"
+        }
+    ],
+    "Haliburton—Kawartha Lakes—Brock": [
+        {
+            "Candidate": "SCOTT, LAURIE",
+            "Party": "PC Party of Ontario",
+            "Votes": "26,506",
+            "Percentage": "51.95%"
+        },
+        {
+            "Candidate": "BENNIE, ALISON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,688",
+            "Percentage": "22.91%"
+        },
+        {
+            "Candidate": "DOYLE, BARBARA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "6,993",
+            "Percentage": "13.70%"
+        },
+        {
+            "Candidate": "REGINA, TOM",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,602",
+            "Percentage": "5.10%"
+        },
+        {
+            "Candidate": "BARKER, JACQUIE",
+            "Party": "New Blue Party",
+            "Votes": "1,223",
+            "Percentage": "2.40%"
+        },
+        {
+            "Candidate": "KERR, BRIAN",
+            "Party": "Ontario Party",
+            "Votes": "926",
+            "Percentage": "1.81%"
+        },
+        {
+            "Candidate": "BALFOUR, GENE",
+            "Party": "INDEPENDENT",
+            "Votes": "426",
+            "Percentage": "0.83%"
+        },
+        {
+            "Candidate": "TISDALE, ZACHARY",
+            "Party": "Libertarian",
+            "Votes": "385",
+            "Percentage": "0.75%"
+        },
+        {
+            "Candidate": "DENBY, BILL",
+            "Party": "Freedom Party of Ontario",
+            "Votes": "278",
+            "Percentage": "0.54%"
+        }
+    ],
+    "Hamilton Centre": [
+        {
+            "Candidate": "LENNOX, ROBIN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "12,839",
+            "Percentage": "38.36%"
+        },
+        {
+            "Candidate": "WALKER, EILEEN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,132",
+            "Percentage": "21.31%"
+        },
+        {
+            "Candidate": "BOKHARI, SARAH",
+            "Party": "PC Party of Ontario",
+            "Votes": "6,331",
+            "Percentage": "18.92%"
+        },
+        {
+            "Candidate": "JAMA, SARAH",
+            "Party": "INDEPENDENT",
+            "Votes": "4,977",
+            "Percentage": "14.87%"
+        },
+        {
+            "Candidate": "IANNANTUONO, LUCIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,642",
+            "Percentage": "4.91%"
+        },
+        {
+            "Candidate": "NOVOSAD, MITCH",
+            "Party": "New Blue Party",
+            "Votes": "441",
+            "Percentage": "1.32%"
+        },
+        {
+            "Candidate": "YAN, NATHALIE XIAN YI",
+            "Party": "INDEPENDENT",
+            "Votes": "107",
+            "Percentage": "0.32%"
+        }
+    ],
+    "Hamilton East—Stoney Creek": [
+        {
+            "Candidate": "LUMSDEN, NEIL",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,401",
+            "Percentage": "42.07%"
+        },
+        {
+            "Candidate": "DOESSING, HEINO",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,323",
+            "Percentage": "31.61%"
+        },
+        {
+            "Candidate": "BUTT, ZAIGHAM",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "6,862",
+            "Percentage": "17.60%"
+        },
+        {
+            "Candidate": "MARCHAND, PASCALE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,049",
+            "Percentage": "5.26%"
+        },
+        {
+            "Candidate": "CURNEW, HEATHER",
+            "Party": "Ontario Party",
+            "Votes": "595",
+            "Percentage": "1.53%"
+        },
+        {
+            "Candidate": "DERLATKA, WIESLAWA",
+            "Party": "New Blue Party",
+            "Votes": "530",
+            "Percentage": "1.36%"
+        },
+        {
+            "Candidate": "GARVIE, DREW",
+            "Party": "Communist",
+            "Votes": "223",
+            "Percentage": "0.57%"
+        }
+    ],
+    "Hamilton Mountain": [
+        {
+            "Candidate": "CIRIELLO, MONICA",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,949",
+            "Percentage": "36.16%"
+        },
+        {
+            "Candidate": "DANKO, DAWN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,933",
+            "Percentage": "30.93%"
+        },
+        {
+            "Candidate": "DAMPTEY, KOJO",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "10,037",
+            "Percentage": "26.02%"
+        },
+        {
+            "Candidate": "CZERNIGA, JOSHUA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,544",
+            "Percentage": "4.00%"
+        },
+        {
+            "Candidate": "PROTOPAPA, LAYLA MARIE-ANGELA",
+            "Party": "New Blue Party",
+            "Votes": "392",
+            "Percentage": "1.02%"
+        },
+        {
+            "Candidate": "PRESTON, DAN",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "278",
+            "Percentage": "0.72%"
+        },
+        {
+            "Candidate": "BUTT, EJAZ",
+            "Party": "INDEPENDENT",
+            "Votes": "267",
+            "Percentage": "0.69%"
+        },
+        {
+            "Candidate": "WONG, BING",
+            "Party": "Ontario Party",
+            "Votes": "178",
+            "Percentage": "0.46%"
+        }
+    ],
+    "Hamilton West—Ancaster—Dundas": [
+        {
+            "Candidate": "SHAW, SANDY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "20,203",
+            "Percentage": "38.76%"
+        },
+        {
+            "Candidate": "DEMIK, JOHN",
+            "Party": "PC Party of Ontario",
+            "Votes": "17,599",
+            "Percentage": "33.77%"
+        },
+        {
+            "Candidate": "BROWN, JULIA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,568",
+            "Percentage": "22.19%"
+        },
+        {
+            "Candidate": "BISSON, GUY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,839",
+            "Percentage": "3.53%"
+        },
+        {
+            "Candidate": "WEISS VASSOR, LEE",
+            "Party": "New Blue Party",
+            "Votes": "601",
+            "Percentage": "1.15%"
+        },
+        {
+            "Candidate": "ROCCHI, SPENCER",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "231",
+            "Percentage": "0.44%"
+        },
+        {
+            "Candidate": "SMITH, NORI",
+            "Party": "Electoral Reform Party",
+            "Votes": "79",
+            "Percentage": "0.15%"
+        }
+    ],
+    "Hastings—Lennox and Addington": [
+        {
+            "Candidate": "BRESEE, RIC",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,029",
+            "Percentage": "48.42%"
+        },
+        {
+            "Candidate": "RIGBY, LYNN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,247",
+            "Percentage": "29.61%"
+        },
+        {
+            "Candidate": "ZIELKE, JESSICA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,734",
+            "Percentage": "11.44%"
+        },
+        {
+            "Candidate": "SLOAN, DEREK",
+            "Party": "Ontario Party",
+            "Votes": "2,372",
+            "Percentage": "5.73%"
+        },
+        {
+            "Candidate": "HOLBROOK, MIKE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,338",
+            "Percentage": "3.23%"
+        },
+        {
+            "Candidate": "TYRRELL, GLENN",
+            "Party": "New Blue Party",
+            "Votes": "645",
+            "Percentage": "1.56%"
+        }
+    ],
+    "Humber River—Black Creek": [
+        {
+            "Candidate": "RAKOCEVIC, TOM",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "8,793",
+            "Percentage": "35.34%"
+        },
+        {
+            "Candidate": "NGUYEN, PAUL",
+            "Party": "PC Party of Ontario",
+            "Votes": "8,595",
+            "Percentage": "34.54%"
+        },
+        {
+            "Candidate": "HASSAN, LIBAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "6,811",
+            "Percentage": "27.37%"
+        },
+        {
+            "Candidate": "QANBERY, ALEXANDER",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "402",
+            "Percentage": "1.62%"
+        },
+        {
+            "Candidate": "MCGUIRE, JEANNE",
+            "Party": "Communist",
+            "Votes": "280",
+            "Percentage": "1.13%"
+        }
+    ],
+    "Huron—Bruce": [
+        {
+            "Candidate": "THOMPSON, LISA",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,461",
+            "Percentage": "50.01%"
+        },
+        {
+            "Candidate": "BURBIDGE, IAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,703",
+            "Percentage": "28.02%"
+        },
+        {
+            "Candidate": "MCGREGOR, NICK",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,749",
+            "Percentage": "11.75%"
+        },
+        {
+            "Candidate": "VAN ANKUM, MATTHEW",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,727",
+            "Percentage": "5.58%"
+        },
+        {
+            "Candidate": "WEILER, ZACK",
+            "Party": "New Blue Party",
+            "Votes": "2,065",
+            "Percentage": "4.22%"
+        },
+        {
+            "Candidate": "EISEN, BRUCE",
+            "Party": "Alliance",
+            "Votes": "206",
+            "Percentage": "0.42%"
+        }
+    ],
+    "Kanata—Carleton": [
+        {
+            "Candidate": "MCCRIMMON, KAREN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "21,946",
+            "Percentage": "47.67%"
+        },
+        {
+            "Candidate": "PHELAN, SCOTT",
+            "Party": "PC Party of Ontario",
+            "Votes": "18,750",
+            "Percentage": "40.73%"
+        },
+        {
+            "Candidate": "BELCHER, DAVE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,361",
+            "Percentage": "7.30%"
+        },
+        {
+            "Candidate": "PURDY, JENNIFER",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,163",
+            "Percentage": "2.53%"
+        },
+        {
+            "Candidate": "WATSON, ELIZABETH",
+            "Party": "New Blue Party",
+            "Votes": "498",
+            "Percentage": "1.08%"
+        },
+        {
+            "Candidate": "JAKUBOWSKI, FRANK",
+            "Party": "Ontario Party",
+            "Votes": "321",
+            "Percentage": "0.70%"
+        }
+    ],
+    "Kenora—Rainy River": [
+        {
+            "Candidate": "RICKFORD, GREG",
+            "Party": "PC Party of Ontario",
+            "Votes": "10,541",
+            "Percentage": "59.93%"
+        },
+        {
+            "Candidate": "TURTLE, RUDY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,308",
+            "Percentage": "18.81%"
+        },
+        {
+            "Candidate": "LEEK, ANTHONY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,072",
+            "Percentage": "17.46%"
+        },
+        {
+            "Candidate": "REDINS, JOHN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "336",
+            "Percentage": "1.91%"
+        },
+        {
+            "Candidate": "RICCI, RANDY",
+            "Party": "New Blue Party",
+            "Votes": "333",
+            "Percentage": "1.89%"
+        }
+    ],
+    "Kiiwetinoong": [
+        {
+            "Candidate": "MAMAKWA, SOL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,124",
+            "Percentage": "60.97%"
+        },
+        {
+            "Candidate": "SCOTT, WAYLON",
+            "Party": "PC Party of Ontario",
+            "Votes": "1,362",
+            "Percentage": "26.58%"
+        },
+        {
+            "Candidate": "MICHELIZZI, MANUELA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "378",
+            "Percentage": "7.38%"
+        },
+        {
+            "Candidate": "SPICER, CAROLYN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "134",
+            "Percentage": "2.62%"
+        },
+        {
+            "Candidate": "LEPPICH, THERESA",
+            "Party": "Northern Ontario Party",
+            "Votes": "126",
+            "Percentage": "2.46%"
+        }
+    ],
+    "Kingston and the Islands": [
+        {
+            "Candidate": "HSU, TED",
+            "Party": "Ontario Liberal Party",
+            "Votes": "33,288",
+            "Percentage": "61.57%"
+        },
+        {
+            "Candidate": "CHAPELLE, IAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "12,022",
+            "Percentage": "22.24%"
+        },
+        {
+            "Candidate": "GOODELL UGALDE, ELLIOT",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "6,663",
+            "Percentage": "12.32%"
+        },
+        {
+            "Candidate": "TYPHAIR, ZACHARY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,195",
+            "Percentage": "2.21%"
+        },
+        {
+            "Candidate": "WILSON, ALLAN",
+            "Party": "Ontario Party",
+            "Votes": "566",
+            "Percentage": "1.05%"
+        },
+        {
+            "Candidate": "MCNAIR, JAMES",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "331",
+            "Percentage": "0.61%"
+        }
+    ],
+    "King—Vaughan": [
+        {
+            "Candidate": "LECCE, STEPHEN",
+            "Party": "PC Party of Ontario",
+            "Votes": "28,529",
+            "Percentage": "64.18%"
+        },
+        {
+            "Candidate": "VIVONA, GILLIAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,452",
+            "Percentage": "28.01%"
+        },
+        {
+            "Candidate": "MORELLI, RICK",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,714",
+            "Percentage": "3.86%"
+        },
+        {
+            "Candidate": "RANEY, ANN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "933",
+            "Percentage": "2.10%"
+        },
+        {
+            "Candidate": "BRESSI, CHRISTOPHER",
+            "Party": "New Blue Party",
+            "Votes": "569",
+            "Percentage": "1.28%"
+        },
+        {
+            "Candidate": "MORGIS, MARIA",
+            "Party": "Ontario Party",
+            "Votes": "256",
+            "Percentage": "0.58%"
+        }
+    ],
+    "Kitchener Centre": [
+        {
+            "Candidate": "CLANCY, AISLINN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "21,200",
+            "Percentage": "51.39%"
+        },
+        {
+            "Candidate": "ELLIOTT, ROB",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,991",
+            "Percentage": "24.22%"
+        },
+        {
+            "Candidate": "JAMES, COLLEEN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "5,882",
+            "Percentage": "14.26%"
+        },
+        {
+            "Candidate": "WALLIS, BROOKLIN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,821",
+            "Percentage": "6.84%"
+        },
+        {
+            "Candidate": "SIMOES, PAUL",
+            "Party": "New Blue Party",
+            "Votes": "805",
+            "Percentage": "1.95%"
+        },
+        {
+            "Candidate": "BUTNAR-STOICA, SEBASTIAN",
+            "Party": "Ontario Party",
+            "Votes": "398",
+            "Percentage": "0.96%"
+        },
+        {
+            "Candidate": "NUHN, CHRISTOPHER",
+            "Party": "INDEPENDENT",
+            "Votes": "153",
+            "Percentage": "0.37%"
+        }
+    ],
+    "Kitchener South—Hespeler": [
+        {
+            "Candidate": "DIXON, JESS",
+            "Party": "PC Party of Ontario",
+            "Votes": "17,363",
+            "Percentage": "45.42%"
+        },
+        {
+            "Candidate": "MOHAMED, ISMAIL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "9,830",
+            "Percentage": "25.72%"
+        },
+        {
+            "Candidate": "DONKERSGOED, JEFF",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "6,841",
+            "Percentage": "17.90%"
+        },
+        {
+            "Candidate": "RILEY, JESSICA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "3,345",
+            "Percentage": "8.75%"
+        },
+        {
+            "Candidate": "SOULE, JOHN",
+            "Party": "New Blue Party",
+            "Votes": "846",
+            "Percentage": "2.21%"
+        }
+    ],
+    "Kitchener—Conestoga": [
+        {
+            "Candidate": "HARRIS, MIKE",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,946",
+            "Percentage": "41.54%"
+        },
+        {
+            "Candidate": "GOWING, JOE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,031",
+            "Percentage": "29.49%"
+        },
+        {
+            "Candidate": "SZIMANSKI, JODI",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,551",
+            "Percentage": "18.51%"
+        },
+        {
+            "Candidate": "WAGENAAR, BRAYDEN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,227",
+            "Percentage": "5.46%"
+        },
+        {
+            "Candidate": "KARAHALIOS, JIM",
+            "Party": "New Blue Party",
+            "Votes": "1,152",
+            "Percentage": "2.82%"
+        },
+        {
+            "Candidate": "DOUCETTE, PATRICK",
+            "Party": "Ontario Party",
+            "Votes": "890",
+            "Percentage": "2.18%"
+        }
+    ],
+    "Lambton—Kent—Middlesex": [
+        {
+            "Candidate": "PINSONNEAULT, STEPHEN",
+            "Party": "PC Party of Ontario",
+            "Votes": "25,297",
+            "Percentage": "53.55%"
+        },
+        {
+            "Candidate": "BURGHARDT-JESSON, CATHY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,397",
+            "Percentage": "26.24%"
+        },
+        {
+            "Candidate": "SHAILER, KATHRYN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,779",
+            "Percentage": "12.23%"
+        },
+        {
+            "Candidate": "FISHER, ANDY",
+            "Party": "New Blue Party",
+            "Votes": "2,093",
+            "Percentage": "4.43%"
+        },
+        {
+            "Candidate": "TILGNER, ANDRAENA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,677",
+            "Percentage": "3.55%"
+        }
+    ],
+    "Lanark—Frontenac—Kingston": [
+        {
+            "Candidate": "JORDAN, JOHN",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,901",
+            "Percentage": "49.34%"
+        },
+        {
+            "Candidate": "RAINER, ROB",
+            "Party": "Ontario Liberal Party",
+            "Votes": "15,160",
+            "Percentage": "32.66%"
+        },
+        {
+            "Candidate": "MACRAE, JOHN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,845",
+            "Percentage": "10.44%"
+        },
+        {
+            "Candidate": "SPRUYT, MARLENE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,552",
+            "Percentage": "3.34%"
+        },
+        {
+            "Candidate": "DILLISTONE-WHITAKER, WENDY",
+            "Party": "Ontario Party",
+            "Votes": "950",
+            "Percentage": "2.05%"
+        },
+        {
+            "Candidate": "MOTTON, DAVID",
+            "Party": "New Blue Party",
+            "Votes": "682",
+            "Percentage": "1.47%"
+        },
+        {
+            "Candidate": "O'NEILL, SHANE",
+            "Party": "INDEPENDENT",
+            "Votes": "321",
+            "Percentage": "0.69%"
+        }
+    ],
+    "Leeds—Grenville—Thousand Islands and Rideau Lakes": [
+        {
+            "Candidate": "CLARK, STEVE",
+            "Party": "PC Party of Ontario",
+            "Votes": "25,107",
+            "Percentage": "54.94%"
+        },
+        {
+            "Candidate": "EDMONDS, LORNA JEAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,392",
+            "Percentage": "27.12%"
+        },
+        {
+            "Candidate": "WILSON, CHRIS",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,471",
+            "Percentage": "9.78%"
+        },
+        {
+            "Candidate": "JAGER, FIONA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,083",
+            "Percentage": "4.56%"
+        },
+        {
+            "Candidate": "GARRAH, CHRIS",
+            "Party": "New Blue Party",
+            "Votes": "743",
+            "Percentage": "1.63%"
+        },
+        {
+            "Candidate": "CALABRETTA, DANIEL",
+            "Party": "Ontario Party",
+            "Votes": "561",
+            "Percentage": "1.23%"
+        },
+        {
+            "Candidate": "SNOW, MARK",
+            "Party": "Libertarian",
+            "Votes": "342",
+            "Percentage": "0.75%"
+        }
+    ],
+    "London North Centre": [
+        {
+            "Candidate": "KERNAGHAN, TERENCE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "22,587",
+            "Percentage": "46.71%"
+        },
+        {
+            "Candidate": "PRIBIL, JERRY",
+            "Party": "PC Party of Ontario",
+            "Votes": "15,783",
+            "Percentage": "32.64%"
+        },
+        {
+            "Candidate": "KHAN, TARIQ",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,557",
+            "Percentage": "15.63%"
+        },
+        {
+            "Candidate": "DYCK, CAROL",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,605",
+            "Percentage": "3.32%"
+        },
+        {
+            "Candidate": "WILE, CHRIS",
+            "Party": "New Blue Party",
+            "Votes": "512",
+            "Percentage": "1.06%"
+        },
+        {
+            "Candidate": "MCKEEVER, PAUL",
+            "Party": "Freedom Party of Ontario",
+            "Votes": "312",
+            "Percentage": "0.65%"
+        }
+    ],
+    "London West": [
+        {
+            "Candidate": "SATTLER, PEGGY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "26,589",
+            "Percentage": "49.21%"
+        },
+        {
+            "Candidate": "ALLISON, BETH",
+            "Party": "PC Party of Ontario",
+            "Votes": "18,892",
+            "Percentage": "34.96%"
+        },
+        {
+            "Candidate": "KHAN, BAQAR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "5,991",
+            "Percentage": "11.09%"
+        },
+        {
+            "Candidate": "JOHNSTON, JIM",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,021",
+            "Percentage": "1.89%"
+        },
+        {
+            "Candidate": "DALE, SHANE",
+            "Party": "New Blue Party",
+            "Votes": "636",
+            "Percentage": "1.18%"
+        },
+        {
+            "Candidate": "BYMA, KEN",
+            "Party": "Libertarian",
+            "Votes": "572",
+            "Percentage": "1.06%"
+        },
+        {
+            "Candidate": "HODGES, TIM",
+            "Party": "Freedom Party of Ontario",
+            "Votes": "179",
+            "Percentage": "0.33%"
+        },
+        {
+            "Candidate": "HAMMER, TIMOTHY",
+            "Party": "INDEPENDENT",
+            "Votes": "153",
+            "Percentage": "0.28%"
+        }
+    ],
+    "London—Fanshawe": [
+        {
+            "Candidate": "ARMSTRONG, TERESA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "18,749",
+            "Percentage": "47.59%"
+        },
+        {
+            "Candidate": "VANDERLEY, PETE",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,480",
+            "Percentage": "34.21%"
+        },
+        {
+            "Candidate": "MAY, KEVIN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "4,884",
+            "Percentage": "12.40%"
+        },
+        {
+            "Candidate": "OSBOURNE-SORRELL, WILLIAM",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,045",
+            "Percentage": "2.65%"
+        },
+        {
+            "Candidate": "WEST, CHRISTOPHER",
+            "Party": "New Blue Party",
+            "Votes": "654",
+            "Percentage": "1.66%"
+        },
+        {
+            "Candidate": "DURNIN, DAVE",
+            "Party": "Freedom Party of Ontario",
+            "Votes": "381",
+            "Percentage": "0.97%"
+        },
+        {
+            "Candidate": "MCDONALD, ALAN JOHN",
+            "Party": "INDEPENDENT",
+            "Votes": "205",
+            "Percentage": "0.52%"
+        }
+    ],
+    "Markham—Stouffville": [
+        {
+            "Candidate": "CALANDRA, PAUL",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,757",
+            "Percentage": "50.64%"
+        },
+        {
+            "Candidate": "DUNN, KELLY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,624",
+            "Percentage": "41.44%"
+        },
+        {
+            "Candidate": "HINES, GREGORY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,050",
+            "Percentage": "4.56%"
+        },
+        {
+            "Candidate": "O'BRIEN, MYLES",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,018",
+            "Percentage": "2.27%"
+        },
+        {
+            "Candidate": "SORENSON, BRENDAN",
+            "Party": "New Blue Party",
+            "Votes": "491",
+            "Percentage": "1.09%"
+        }
+    ],
+    "Markham—Thornhill": [
+        {
+            "Candidate": "KANAPATHI, LOGAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "14,292",
+            "Percentage": "53.59%"
+        },
+        {
+            "Candidate": "ARMSTRONG, NIRMALA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,576",
+            "Percentage": "39.66%"
+        },
+        {
+            "Candidate": "SAHBAZ, PAUL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,176",
+            "Percentage": "4.41%"
+        },
+        {
+            "Candidate": "O'BRIEN, SHANE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "623",
+            "Percentage": "2.34%"
+        }
+    ],
+    "Markham—Unionville": [
+        {
+            "Candidate": "PANG, BILLY",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,113",
+            "Percentage": "61.16%"
+        },
+        {
+            "Candidate": "DOSANJH, JAGBIR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,158",
+            "Percentage": "30.89%"
+        },
+        {
+            "Candidate": "QURESHI, SAMEER",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,298",
+            "Percentage": "3.95%"
+        },
+        {
+            "Candidate": "MADSEN, CHRIS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "772",
+            "Percentage": "2.35%"
+        },
+        {
+            "Candidate": "BOUDREAU, NICK",
+            "Party": "New Blue Party",
+            "Votes": "545",
+            "Percentage": "1.66%"
+        }
+    ],
+    "Milton": [
+        {
+            "Candidate": "HAMID, ZEE",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,091",
+            "Percentage": "47.43%"
+        },
+        {
+            "Candidate": "TESSER DERKSEN, KRISTINA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "17,551",
+            "Percentage": "41.44%"
+        },
+        {
+            "Candidate": "CIRLINCIONE, KATHERINE-ANNE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,403",
+            "Percentage": "5.67%"
+        },
+        {
+            "Candidate": "DOYLE, SUSAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,130",
+            "Percentage": "2.67%"
+        },
+        {
+            "Candidate": "SPINA, JOHN",
+            "Party": "New Blue Party",
+            "Votes": "866",
+            "Percentage": "2.04%"
+        },
+        {
+            "Candidate": "RIZVI, MOHSIN",
+            "Party": "CPO",
+            "Votes": "316",
+            "Percentage": "0.75%"
+        }
+    ],
+    "Mississauga Centre": [
+        {
+            "Candidate": "KUSENDOVA, NATALIA",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,784",
+            "Percentage": "46.92%"
+        },
+        {
+            "Candidate": "MALIK, SUMIRA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,703",
+            "Percentage": "41.10%"
+        },
+        {
+            "Candidate": "AHMED, WASEEM",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,297",
+            "Percentage": "6.42%"
+        },
+        {
+            "Candidate": "CHAN, ROBERT",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,022",
+            "Percentage": "2.86%"
+        },
+        {
+            "Candidate": "SIMPSON, AUDREY",
+            "Party": "New Blue Party",
+            "Votes": "437",
+            "Percentage": "1.22%"
+        },
+        {
+            "Candidate": "VEZINA, GREG",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "330",
+            "Percentage": "0.92%"
+        },
+        {
+            "Candidate": "ALI, ZULFIQAR",
+            "Party": "INDEPENDENT",
+            "Votes": "198",
+            "Percentage": "0.55%"
+        }
+    ],
+    "Mississauga East—Cooksville": [
+        {
+            "Candidate": "GUALTIERI, SILVIA",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,763",
+            "Percentage": "46.46%"
+        },
+        {
+            "Candidate": "CROMBIE, BONNIE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "15,536",
+            "Percentage": "43.06%"
+        },
+        {
+            "Candidate": "VENUTO, ALEX",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,876",
+            "Percentage": "5.20%"
+        },
+        {
+            "Candidate": "ZENI, DAVID",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "743",
+            "Percentage": "2.06%"
+        },
+        {
+            "Candidate": "PECK, KEVIN",
+            "Party": "New Blue Party",
+            "Votes": "429",
+            "Percentage": "1.19%"
+        },
+        {
+            "Candidate": "HUSSAIN, SYED",
+            "Party": "INDEPENDENT",
+            "Votes": "223",
+            "Percentage": "0.62%"
+        },
+        {
+            "Candidate": "DE PELHAM, MARK",
+            "Party": "INDEPENDENT",
+            "Votes": "204",
+            "Percentage": "0.57%"
+        },
+        {
+            "Candidate": "TRICHILO, VITTORIA",
+            "Party": "Ontario Party",
+            "Votes": "192",
+            "Percentage": "0.53%"
+        },
+        {
+            "Candidate": "IAKOVLIEVA, OLEKSANDRA",
+            "Party": "Ontario Moderate Party",
+            "Votes": "118",
+            "Percentage": "0.33%"
+        }
+    ],
+    "Mississauga—Erin Mills": [
+        {
+            "Candidate": "SABAWY, SHEREF",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,665",
+            "Percentage": "44.25%"
+        },
+        {
+            "Candidate": "DAR, QASIR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "16,645",
+            "Percentage": "44.20%"
+        },
+        {
+            "Candidate": "RIZVI, MUBASHIR",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,087",
+            "Percentage": "5.54%"
+        },
+        {
+            "Candidate": "FRANKLIN, ADRIANE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,087",
+            "Percentage": "2.89%"
+        },
+        {
+            "Candidate": "BAYER, MICHAEL",
+            "Party": "New Blue Party",
+            "Votes": "747",
+            "Percentage": "1.98%"
+        },
+        {
+            "Candidate": "MATULEWICZ, MICHAEL",
+            "Party": "INDEPENDENT",
+            "Votes": "309",
+            "Percentage": "0.82%"
+        },
+        {
+            "Candidate": "HUSSAIN, SAJID",
+            "Party": "INDEPENDENT",
+            "Votes": "121",
+            "Percentage": "0.32%"
+        }
+    ],
+    "Mississauga—Lakeshore": [
+        {
+            "Candidate": "CUZZETTO, RUDY",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,566",
+            "Percentage": "47.49%"
+        },
+        {
+            "Candidate": "MENDES, ELIZABETH",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,954",
+            "Percentage": "43.77%"
+        },
+        {
+            "Candidate": "KI, SPENCER YANG",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,962",
+            "Percentage": "4.53%"
+        },
+        {
+            "Candidate": "BUDAHAZY, JULIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,039",
+            "Percentage": "2.40%"
+        },
+        {
+            "Candidate": "CYNARSKA, RENATA",
+            "Party": "New Blue Party",
+            "Votes": "548",
+            "Percentage": "1.27%"
+        },
+        {
+            "Candidate": "BUMBIA, AYOUB",
+            "Party": "INDEPENDENT",
+            "Votes": "123",
+            "Percentage": "0.28%"
+        },
+        {
+            "Candidate": "AVDEIEV, OLEKSII",
+            "Party": "Ontario Moderate Party",
+            "Votes": "113",
+            "Percentage": "0.26%"
+        }
+    ],
+    "Mississauga—Malton": [
+        {
+            "Candidate": "ANAND, DEEPAK",
+            "Party": "PC Party of Ontario",
+            "Votes": "15,110",
+            "Percentage": "50.92%"
+        },
+        {
+            "Candidate": "HAROON, JAWAD",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,497",
+            "Percentage": "38.74%"
+        },
+        {
+            "Candidate": "MCDONALD, GERARD",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,002",
+            "Percentage": "6.75%"
+        },
+        {
+            "Candidate": "ESMAIL, ARISH",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "568",
+            "Percentage": "1.91%"
+        },
+        {
+            "Candidate": "NGUYEN, VAN",
+            "Party": "New Blue Party",
+            "Votes": "498",
+            "Percentage": "1.68%"
+        }
+    ],
+    "Mississauga—Streetsville": [
+        {
+            "Candidate": "TANGRI, NINA",
+            "Party": "PC Party of Ontario",
+            "Votes": "19,118",
+            "Percentage": "47.72%"
+        },
+        {
+            "Candidate": "PROMOLI, JILL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "17,287",
+            "Percentage": "43.15%"
+        },
+        {
+            "Candidate": "KHAWAR, SHOAIB",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,014",
+            "Percentage": "5.03%"
+        },
+        {
+            "Candidate": "HILL, CHRIS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,012",
+            "Percentage": "2.53%"
+        },
+        {
+            "Candidate": "BROTHERS, DARRYL",
+            "Party": "New Blue Party",
+            "Votes": "630",
+            "Percentage": "1.57%"
+        }
+    ],
+    "Mushkegowuk—James Bay": [
+        {
+            "Candidate": "BOURGOUIN, GUY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,606",
+            "Percentage": "45.40%"
+        },
+        {
+            "Candidate": "PLOURDE, DAVE",
+            "Party": "PC Party of Ontario",
+            "Votes": "3,602",
+            "Percentage": "45.35%"
+        },
+        {
+            "Candidate": "ALLEN, KYLE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "614",
+            "Percentage": "7.73%"
+        },
+        {
+            "Candidate": "JONES, CATHERINE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "121",
+            "Percentage": "1.52%"
+        }
+    ],
+    "Nepean": [
+        {
+            "Candidate": "WATT, TYLER",
+            "Party": "Ontario Liberal Party",
+            "Votes": "22,683",
+            "Percentage": "48.53%"
+        },
+        {
+            "Candidate": "LEWIS, ALEX",
+            "Party": "PC Party of Ontario",
+            "Votes": "17,962",
+            "Percentage": "38.43%"
+        },
+        {
+            "Candidate": "BLAIR, MAX",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,116",
+            "Percentage": "8.81%"
+        },
+        {
+            "Candidate": "MCLEAN, SHEILAGH",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "887",
+            "Percentage": "1.90%"
+        },
+        {
+            "Candidate": "KOVACH, JOHN",
+            "Party": "New Blue Party",
+            "Votes": "485",
+            "Percentage": "1.04%"
+        },
+        {
+            "Candidate": "CHARBONNEAU, CARMEN",
+            "Party": "Ontario Party",
+            "Votes": "385",
+            "Percentage": "0.82%"
+        },
+        {
+            "Candidate": "WESTAWAY, PETER",
+            "Party": "INDEPENDENT",
+            "Votes": "223",
+            "Percentage": "0.48%"
+        }
+    ],
+    "Newmarket—Aurora": [
+        {
+            "Candidate": "GALLAGHER MURPHY, DAWN",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,780",
+            "Percentage": "47.43%"
+        },
+        {
+            "Candidate": "BALLARD, CHRIS",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,355",
+            "Percentage": "41.90%"
+        },
+        {
+            "Candidate": "HENG, DENIS",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,754",
+            "Percentage": "6.29%"
+        },
+        {
+            "Candidate": "JAKUBIEC, DAVID",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,096",
+            "Percentage": "2.50%"
+        },
+        {
+            "Candidate": "KHASBAKHI, SHIRIN",
+            "Party": "New Blue Party",
+            "Votes": "536",
+            "Percentage": "1.22%"
+        },
+        {
+            "Candidate": "DUBOISKY, YURI",
+            "Party": "Ontario Moderate Party",
+            "Votes": "287",
+            "Percentage": "0.66%"
+        }
+    ],
+    "Niagara Centre": [
+        {
+            "Candidate": "BURCH, JEFF",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "20,505",
+            "Percentage": "42.29%"
+        },
+        {
+            "Candidate": "STEELE, BILL",
+            "Party": "PC Party of Ontario",
+            "Votes": "18,072",
+            "Percentage": "37.27%"
+        },
+        {
+            "Candidate": "O'BRIEN, DAMIEN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,145",
+            "Percentage": "14.74%"
+        },
+        {
+            "Candidate": "BERGEN, NATASHIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,262",
+            "Percentage": "2.60%"
+        },
+        {
+            "Candidate": "JACKSON, JIMMY",
+            "Party": "New Blue Party",
+            "Votes": "857",
+            "Percentage": "1.77%"
+        },
+        {
+            "Candidate": "WEINBERG, DARRYL",
+            "Party": "Ontario Party",
+            "Votes": "513",
+            "Percentage": "1.06%"
+        },
+        {
+            "Candidate": "BROWNE, ANGELA",
+            "Party": "Alliance",
+            "Votes": "129",
+            "Percentage": "0.27%"
+        }
+    ],
+    "Niagara Falls": [
+        {
+            "Candidate": "GATES, WAYNE J.",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "29,549",
+            "Percentage": "54.95%"
+        },
+        {
+            "Candidate": "NIEUWESTEEG, RUTH-ANN",
+            "Party": "PC Party of Ontario",
+            "Votes": "18,569",
+            "Percentage": "34.53%"
+        },
+        {
+            "Candidate": "KAPUR, SHAFOLI",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,398",
+            "Percentage": "6.32%"
+        },
+        {
+            "Candidate": "DUMELIE, GARY",
+            "Party": "New Blue Party",
+            "Votes": "870",
+            "Percentage": "1.62%"
+        },
+        {
+            "Candidate": "TAYLOR, CELIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "837",
+            "Percentage": "1.56%"
+        },
+        {
+            "Candidate": "SOIFERT, ANDREW",
+            "Party": "Ontario Party",
+            "Votes": "285",
+            "Percentage": "0.53%"
+        },
+        {
+            "Candidate": "BURDETT, JOEDY",
+            "Party": "INDEPENDENT",
+            "Votes": "263",
+            "Percentage": "0.49%"
+        }
+    ],
+    "Niagara West": [
+        {
+            "Candidate": "OOSTERHOFF, SAM",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,316",
+            "Percentage": "50.23%"
+        },
+        {
+            "Candidate": "BOYLE, SHAUNA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,091",
+            "Percentage": "24.96%"
+        },
+        {
+            "Candidate": "AUGUSTYN, DAVE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,312",
+            "Percentage": "16.46%"
+        },
+        {
+            "Candidate": "HARRISON, MARK",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,009",
+            "Percentage": "4.52%"
+        },
+        {
+            "Candidate": "ALBANO, AARON",
+            "Party": "New Blue Party",
+            "Votes": "678",
+            "Percentage": "1.53%"
+        },
+        {
+            "Candidate": "ALLISON, AARON",
+            "Party": "Ontario Party",
+            "Votes": "629",
+            "Percentage": "1.42%"
+        },
+        {
+            "Candidate": "KARATOPIS, STEFANOS",
+            "Party": "Libertarian",
+            "Votes": "326",
+            "Percentage": "0.73%"
+        },
+        {
+            "Candidate": "TORMA, JIM",
+            "Party": "Populist Ontario",
+            "Votes": "71",
+            "Percentage": "0.16%"
+        }
+    ],
+    "Nickel Belt": [
+        {
+            "Candidate": "GÉLINAS, FRANCE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "17,123",
+            "Percentage": "48.37%"
+        },
+        {
+            "Candidate": "HAZLETT, RANDY",
+            "Party": "PC Party of Ontario",
+            "Votes": "12,629",
+            "Percentage": "35.67%"
+        },
+        {
+            "Candidate": "LABBÉE, NATALIE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,874",
+            "Percentage": "10.94%"
+        },
+        {
+            "Candidate": "DIVINCENZO, PAUL",
+            "Party": "New Blue Party",
+            "Votes": "676",
+            "Percentage": "1.91%"
+        },
+        {
+            "Candidate": "HILL, CONNIE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "631",
+            "Percentage": "1.78%"
+        },
+        {
+            "Candidate": "CHRETIEN, JAMES",
+            "Party": "Libertarian",
+            "Votes": "470",
+            "Percentage": "1.33%"
+        }
+    ],
+    "Nipissing": [
+        {
+            "Candidate": "FEDELI, VIC",
+            "Party": "PC Party of Ontario",
+            "Votes": "17,644",
+            "Percentage": "55.15%"
+        },
+        {
+            "Candidate": "MICK, LOREN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "8,006",
+            "Percentage": "25.03%"
+        },
+        {
+            "Candidate": "MCGARRY, LIAM",
+            "Party": "Ontario Liberal Party",
+            "Votes": "4,002",
+            "Percentage": "12.51%"
+        },
+        {
+            "Candidate": "CHAPUT, COLTON",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,301",
+            "Percentage": "4.07%"
+        },
+        {
+            "Candidate": "LASHBROOK, MICHELLE",
+            "Party": "Libertarian",
+            "Votes": "539",
+            "Percentage": "1.68%"
+        },
+        {
+            "Candidate": "MOONEY, SCOTT",
+            "Party": "Ontario Party",
+            "Votes": "500",
+            "Percentage": "1.56%"
+        }
+    ],
+    "Northumberland—Peterborough South": [
+        {
+            "Candidate": "PICCINI, DAVID",
+            "Party": "PC Party of Ontario",
+            "Votes": "28,489",
+            "Percentage": "52.10%"
+        },
+        {
+            "Candidate": "NORONHA, DOROTHY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "17,705",
+            "Percentage": "32.38%"
+        },
+        {
+            "Candidate": "LEPAGE, BRUCE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,097",
+            "Percentage": "9.32%"
+        },
+        {
+            "Candidate": "GROVES, MAXWELL",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,999",
+            "Percentage": "3.66%"
+        },
+        {
+            "Candidate": "CHALHOUB, JOSHUA",
+            "Party": "New Blue Party",
+            "Votes": "717",
+            "Percentage": "1.31%"
+        },
+        {
+            "Candidate": "BORS, FLORIAN",
+            "Party": "Ontario Party",
+            "Votes": "673",
+            "Percentage": "1.23%"
+        }
+    ],
+    "Oakville": [
+        {
+            "Candidate": "CRAWFORD, STEPHEN",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,755",
+            "Percentage": "48.04%"
+        },
+        {
+            "Candidate": "GOHEL, ALISON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "20,906",
+            "Percentage": "44.14%"
+        },
+        {
+            "Candidate": "DOWNEY, DIANE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,851",
+            "Percentage": "3.91%"
+        },
+        {
+            "Candidate": "SOUSA, BRUNO",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,205",
+            "Percentage": "2.54%"
+        },
+        {
+            "Candidate": "DI VITTORIO, SHEREEN",
+            "Party": "New Blue Party",
+            "Votes": "556",
+            "Percentage": "1.17%"
+        },
+        {
+            "Candidate": "KORNAY, SANDOR",
+            "Party": "Ontario Moderate Party",
+            "Votes": "93",
+            "Percentage": "0.20%"
+        }
+    ],
+    "Oakville North—Burlington": [
+        {
+            "Candidate": "TRIANTAFILOPOULOS, EFFIE",
+            "Party": "PC Party of Ontario",
+            "Votes": "25,566",
+            "Percentage": "49.72%"
+        },
+        {
+            "Candidate": "MOULI, KANIZ",
+            "Party": "Ontario Liberal Party",
+            "Votes": "21,021",
+            "Percentage": "40.88%"
+        },
+        {
+            "Candidate": "SMOLENAARS, CALEB",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,767",
+            "Percentage": "5.38%"
+        },
+        {
+            "Candidate": "HOSNY, ALI",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,409",
+            "Percentage": "2.74%"
+        },
+        {
+            "Candidate": "WROBLEWSKI, CHARLES",
+            "Party": "New Blue Party",
+            "Votes": "659",
+            "Percentage": "1.28%"
+        }
+    ],
+    "Orléans": [
+        {
+            "Candidate": "BLAIS, STEPHEN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "30,482",
+            "Percentage": "54.18%"
+        },
+        {
+            "Candidate": "PLOURDE, STÉPHAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "19,868",
+            "Percentage": "35.31%"
+        },
+        {
+            "Candidate": "SÉVIGNY, MATTHEW",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,371",
+            "Percentage": "5.99%"
+        },
+        {
+            "Candidate": "PETERSEN, MICHELLE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,398",
+            "Percentage": "2.48%"
+        },
+        {
+            "Candidate": "HOOPER, PATRICIA",
+            "Party": "New Blue Party",
+            "Votes": "641",
+            "Percentage": "1.14%"
+        },
+        {
+            "Candidate": "LEWIS, KEN",
+            "Party": "Libertarian",
+            "Votes": "233",
+            "Percentage": "0.41%"
+        },
+        {
+            "Candidate": "VIDA, ARABELLA",
+            "Party": "INDEPENDENT",
+            "Votes": "138",
+            "Percentage": "0.25%"
+        },
+        {
+            "Candidate": "DOUZABLE, BURTHOMLEY",
+            "Party": "INDEPENDENT",
+            "Votes": "130",
+            "Percentage": "0.23%"
+        }
+    ],
+    "Oshawa": [
+        {
+            "Candidate": "FRENCH, JENNIFER",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "20,367",
+            "Percentage": "45.87%"
+        },
+        {
+            "Candidate": "OUELLETTE, JERRY J.",
+            "Party": "PC Party of Ontario",
+            "Votes": "18,442",
+            "Percentage": "41.53%"
+        },
+        {
+            "Candidate": "BANSAL, VIRESH",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,891",
+            "Percentage": "8.76%"
+        },
+        {
+            "Candidate": "SIRGOOL, NICHOLAS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "916",
+            "Percentage": "2.06%"
+        },
+        {
+            "Candidate": "INGINO, JOE",
+            "Party": "New Blue Party",
+            "Votes": "644",
+            "Percentage": "1.45%"
+        },
+        {
+            "Candidate": "PADMINI SOUMIAN, RAHUL",
+            "Party": "INDEPENDENT",
+            "Votes": "142",
+            "Percentage": "0.32%"
+        }
+    ],
+    "Ottawa Centre": [
+        {
+            "Candidate": "MCKENNEY, CATHERINE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "32,483",
+            "Percentage": "55.70%"
+        },
+        {
+            "Candidate": "SIMPSON, THOMAS",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,591",
+            "Percentage": "23.30%"
+        },
+        {
+            "Candidate": "HEALEY, SCOTT",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,573",
+            "Percentage": "16.41%"
+        },
+        {
+            "Candidate": "BECKETT, SIMON",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,550",
+            "Percentage": "2.66%"
+        },
+        {
+            "Candidate": "DESOUZA, MARIA",
+            "Party": "New Blue Party",
+            "Votes": "468",
+            "Percentage": "0.80%"
+        },
+        {
+            "Candidate": "BOSCHY, SHANNON",
+            "Party": "Ontario Party",
+            "Votes": "321",
+            "Percentage": "0.55%"
+        },
+        {
+            "Candidate": "PERRY, CASHTON",
+            "Party": "Communist",
+            "Votes": "232",
+            "Percentage": "0.40%"
+        },
+        {
+            "Candidate": "RACHLIS, JOSH",
+            "Party": "INDEPENDENT",
+            "Votes": "102",
+            "Percentage": "0.17%"
+        }
+    ],
+    "Ottawa South": [
+        {
+            "Candidate": "FRASER, JOHN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "22,326",
+            "Percentage": "53.23%"
+        },
+        {
+            "Candidate": "GAO, JAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "10,315",
+            "Percentage": "24.59%"
+        },
+        {
+            "Candidate": "GAY, MORGAN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,447",
+            "Percentage": "17.76%"
+        },
+        {
+            "Candidate": "DOOKERAN, NIRA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,214",
+            "Percentage": "2.89%"
+        },
+        {
+            "Candidate": "PERRIER, ALEX",
+            "Party": "New Blue Party",
+            "Votes": "638",
+            "Percentage": "1.52%"
+        }
+    ],
+    "Ottawa West—Nepean": [
+        {
+            "Candidate": "PASMA, CHANDRA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "20,088",
+            "Percentage": "49.33%"
+        },
+        {
+            "Candidate": "ABU-RAYASH, HUSIEN",
+            "Party": "PC Party of Ontario",
+            "Votes": "11,697",
+            "Percentage": "28.72%"
+        },
+        {
+            "Candidate": "SZMUL, BRETT",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,229",
+            "Percentage": "17.75%"
+        },
+        {
+            "Candidate": "ANDREW-JOINER, SOPHIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "975",
+            "Percentage": "2.39%"
+        },
+        {
+            "Candidate": "VROOM, RYLAN",
+            "Party": "New Blue Party",
+            "Votes": "732",
+            "Percentage": "1.80%"
+        }
+    ],
+    "Ottawa—Vanier": [
+        {
+            "Candidate": "COLLARD, LUCILLE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "21,164",
+            "Percentage": "51.56%"
+        },
+        {
+            "Candidate": "GOSSELIN, MARILISSA",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,263",
+            "Percentage": "22.57%"
+        },
+        {
+            "Candidate": "DJILANE, MYRIAM",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,476",
+            "Percentage": "18.21%"
+        },
+        {
+            "Candidate": "PROULX, CHRISTIAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,123",
+            "Percentage": "5.17%"
+        },
+        {
+            "Candidate": "CORCORAN, COREEN",
+            "Party": "Libertarian",
+            "Votes": "528",
+            "Percentage": "1.29%"
+        },
+        {
+            "Candidate": "BHATIA, RISHABH",
+            "Party": "New Blue Party",
+            "Votes": "495",
+            "Percentage": "1.21%"
+        }
+    ],
+    "Oxford": [
+        {
+            "Candidate": "HARDEMAN, ERNIE",
+            "Party": "PC Party of Ontario",
+            "Votes": "27,061",
+            "Percentage": "55.26%"
+        },
+        {
+            "Candidate": "MARTIN, BERNIA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,348",
+            "Percentage": "23.17%"
+        },
+        {
+            "Candidate": "HALIRU, KHADIJAH",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,374",
+            "Percentage": "10.97%"
+        },
+        {
+            "Candidate": "KAUFMAN, COLTON",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,182",
+            "Percentage": "4.46%"
+        },
+        {
+            "Candidate": "HARPER, GRACE",
+            "Party": "Ontario Party",
+            "Votes": "1,414",
+            "Percentage": "2.89%"
+        },
+        {
+            "Candidate": "BEIMERS, PETER",
+            "Party": "New Blue Party",
+            "Votes": "1,317",
+            "Percentage": "2.69%"
+        },
+        {
+            "Candidate": "SZYMCZYSZYN, HENRYK",
+            "Party": "Libertarian",
+            "Votes": "276",
+            "Percentage": "0.56%"
+        }
+    ],
+    "Parkdale—High Park": [
+        {
+            "Candidate": "GILMOUR, ALEXA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "20,508",
+            "Percentage": "45.35%"
+        },
+        {
+            "Candidate": "GUERRERA, NADIA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,941",
+            "Percentage": "30.83%"
+        },
+        {
+            "Candidate": "TEPLYCKY, JUSTINE",
+            "Party": "PC Party of Ontario",
+            "Votes": "8,058",
+            "Percentage": "17.82%"
+        },
+        {
+            "Candidate": "GORKA, ANNA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,968",
+            "Percentage": "4.35%"
+        },
+        {
+            "Candidate": "CORFIELD, GEOFFREY",
+            "Party": "New Blue Party",
+            "Votes": "462",
+            "Percentage": "1.02%"
+        },
+        {
+            "Candidate": "RIARH, RIMMY",
+            "Party": "Communist",
+            "Votes": "283",
+            "Percentage": "0.63%"
+        }
+    ],
+    "Parry Sound—Muskoka": [
+        {
+            "Candidate": "SMITH, GRAYDON",
+            "Party": "PC Party of Ontario",
+            "Votes": "21,731",
+            "Percentage": "46.80%"
+        },
+        {
+            "Candidate": "RICHTER, MATT",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "19,360",
+            "Percentage": "41.70%"
+        },
+        {
+            "Candidate": "INNES, DAVID",
+            "Party": "Ontario Liberal Party",
+            "Votes": "2,822",
+            "Percentage": "6.08%"
+        },
+        {
+            "Candidate": "RONHOLM, JIM",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,329",
+            "Percentage": "2.86%"
+        },
+        {
+            "Candidate": "NICKSY, BRANDON",
+            "Party": "New Blue Party",
+            "Votes": "785",
+            "Percentage": "1.69%"
+        },
+        {
+            "Candidate": "KROEKER, HELEN",
+            "Party": "Ontario Party",
+            "Votes": "403",
+            "Percentage": "0.87%"
+        }
+    ],
+    "Perth—Wellington": [
+        {
+            "Candidate": "RAE, MATTHEW",
+            "Party": "PC Party of Ontario",
+            "Votes": "20,752",
+            "Percentage": "47.00%"
+        },
+        {
+            "Candidate": "FOX, ASHLEY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,547",
+            "Percentage": "28.42%"
+        },
+        {
+            "Candidate": "DAVIS, JASON",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "5,580",
+            "Percentage": "12.64%"
+        },
+        {
+            "Candidate": "MORTON, IAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "3,299",
+            "Percentage": "7.47%"
+        },
+        {
+            "Candidate": "MONTGOMERY, JAMES",
+            "Party": "New Blue Party",
+            "Votes": "1,284",
+            "Percentage": "2.91%"
+        },
+        {
+            "Candidate": "ZENUH, SARAH",
+            "Party": "Ontario Party",
+            "Votes": "458",
+            "Percentage": "1.04%"
+        },
+        {
+            "Candidate": "SMINK, ROB",
+            "Party": "Freedom Party of Ontario",
+            "Votes": "229",
+            "Percentage": "0.52%"
+        }
+    ],
+    "Peterborough—Kawartha": [
+        {
+            "Candidate": "SMITH, DAVE",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,383",
+            "Percentage": "40.49%"
+        },
+        {
+            "Candidate": "HOPKINS, ADAM",
+            "Party": "Ontario Liberal Party",
+            "Votes": "20,135",
+            "Percentage": "36.42%"
+        },
+        {
+            "Candidate": "DECK, JEN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "9,480",
+            "Percentage": "17.15%"
+        },
+        {
+            "Candidate": "GRAHAM, LUCAS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,738",
+            "Percentage": "3.14%"
+        },
+        {
+            "Candidate": "ROUDNY, ANDREW",
+            "Party": "New Blue Party",
+            "Votes": "864",
+            "Percentage": "1.56%"
+        },
+        {
+            "Candidate": "MARTINDALE, BRIAN",
+            "Party": "Ontario Party",
+            "Votes": "684",
+            "Percentage": "1.24%"
+        }
+    ],
+    "Pickering—Uxbridge": [
+        {
+            "Candidate": "BETHLENFALVY, PETER",
+            "Party": "PC Party of Ontario",
+            "Votes": "21,976",
+            "Percentage": "48.15%"
+        },
+        {
+            "Candidate": "DANIYAL, IBRAHIM",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,085",
+            "Percentage": "39.63%"
+        },
+        {
+            "Candidate": "AHMED, KHALID",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,281",
+            "Percentage": "7.19%"
+        },
+        {
+            "Candidate": "BATRA, MINI",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,302",
+            "Percentage": "2.85%"
+        },
+        {
+            "Candidate": "NOLAN, ADRIAN",
+            "Party": "New Blue Party",
+            "Votes": "412",
+            "Percentage": "0.90%"
+        },
+        {
+            "Candidate": "DEVENPORT, VICTORIA",
+            "Party": "Ontario Party",
+            "Votes": "384",
+            "Percentage": "0.84%"
+        },
+        {
+            "Candidate": "QURESHI, MANSOOR",
+            "Party": "CPO",
+            "Votes": "126",
+            "Percentage": "0.28%"
+        },
+        {
+            "Candidate": "DUBOISKY, NETALIA",
+            "Party": "Ontario Moderate Party",
+            "Votes": "73",
+            "Percentage": "0.16%"
+        }
+    ],
+    "Renfrew—Nipissing—Pembroke": [
+        {
+            "Candidate": "DENAULT, BILLY",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,297",
+            "Percentage": "54.83%"
+        },
+        {
+            "Candidate": "JACOB, OLIVER",
+            "Party": "Ontario Liberal Party",
+            "Votes": "9,804",
+            "Percentage": "22.13%"
+        },
+        {
+            "Candidate": "BUCHANAN, MARSHALL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "6,607",
+            "Percentage": "14.91%"
+        },
+        {
+            "Candidate": "HOLM, KEVIN",
+            "Party": "Ontario Party",
+            "Votes": "1,587",
+            "Percentage": "3.58%"
+        },
+        {
+            "Candidate": "DOLAN, ANNA MARIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,123",
+            "Percentage": "2.53%"
+        },
+        {
+            "Candidate": "DICKSON, MARK",
+            "Party": "New Blue Party",
+            "Votes": "893",
+            "Percentage": "2.02%"
+        }
+    ],
+    "Richmond Hill": [
+        {
+            "Candidate": "WAI, DAISY",
+            "Party": "PC Party of Ontario",
+            "Votes": "17,061",
+            "Percentage": "55.43%"
+        },
+        {
+            "Candidate": "FARHADI, ROOZBEH",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,546",
+            "Percentage": "34.26%"
+        },
+        {
+            "Candidate": "BHUSHAN, RAYMOND",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,771",
+            "Percentage": "5.75%"
+        },
+        {
+            "Candidate": "LAM, ALISON",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "883",
+            "Percentage": "2.87%"
+        },
+        {
+            "Candidate": "BRUNS, ALLISON",
+            "Party": "New Blue Party",
+            "Votes": "519",
+            "Percentage": "1.69%"
+        }
+    ],
+    "Sarnia—Lambton": [
+        {
+            "Candidate": "BAILEY, BOB",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,726",
+            "Percentage": "51.27%"
+        },
+        {
+            "Candidate": "YOUNG, CANDACE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "8,716",
+            "Percentage": "19.66%"
+        },
+        {
+            "Candidate": "WILLSIE, RACHEL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,134",
+            "Percentage": "18.35%"
+        },
+        {
+            "Candidate": "BENN, KEITH",
+            "Party": "New Blue Party",
+            "Votes": "1,923",
+            "Percentage": "4.34%"
+        },
+        {
+            "Candidate": "COLQUHOUN, NATHAN",
+            "Party": "INDEPENDENT",
+            "Votes": "890",
+            "Percentage": "2.01%"
+        },
+        {
+            "Candidate": "REID, PAMELA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "840",
+            "Percentage": "1.89%"
+        },
+        {
+            "Candidate": "BOUDREAU, JACQUES",
+            "Party": "Libertarian",
+            "Votes": "590",
+            "Percentage": "1.33%"
+        },
+        {
+            "Candidate": "LAMORE, MARK",
+            "Party": "Ontario Party",
+            "Votes": "359",
+            "Percentage": "0.81%"
+        },
+        {
+            "Candidate": "STOUKAS, TOM",
+            "Party": "Populist Ontario",
+            "Votes": "151",
+            "Percentage": "0.34%"
+        }
+    ],
+    "Sault Ste. Marie": [
+        {
+            "Candidate": "SCOTT, CHRIS",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,082",
+            "Percentage": "43.07%"
+        },
+        {
+            "Candidate": "VEZEAU-ALLEN, LISA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "12,964",
+            "Percentage": "42.69%"
+        },
+        {
+            "Candidate": "DUSANJH, GURWINDER",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,038",
+            "Percentage": "10.00%"
+        },
+        {
+            "Candidate": "HEINO, ARNOLD",
+            "Party": "New Blue Party",
+            "Votes": "564",
+            "Percentage": "1.86%"
+        },
+        {
+            "Candidate": "JACQUES, JAYCOB",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "421",
+            "Percentage": "1.39%"
+        },
+        {
+            "Candidate": "FROLICH, PAUL",
+            "Party": "Ontario Party",
+            "Votes": "302",
+            "Percentage": "0.99%"
+        }
+    ],
+    "Scarborough Centre": [
+        {
+            "Candidate": "SMITH, DAVID",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,363",
+            "Percentage": "44.03%"
+        },
+        {
+            "Candidate": "SHAFIQ, MAZHAR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,839",
+            "Percentage": "42.31%"
+        },
+        {
+            "Candidate": "CHAKRABORTI, SONALI",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,628",
+            "Percentage": "8.66%"
+        },
+        {
+            "Candidate": "BOULDING, DEAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "918",
+            "Percentage": "3.03%"
+        },
+        {
+            "Candidate": "PROKOS, GUS",
+            "Party": "New Blue Party",
+            "Votes": "379",
+            "Percentage": "1.25%"
+        },
+        {
+            "Candidate": "QURESHI, HASEEB",
+            "Party": "CPO",
+            "Votes": "220",
+            "Percentage": "0.72%"
+        }
+    ],
+    "Scarborough North": [
+        {
+            "Candidate": "CHO, RAYMOND",
+            "Party": "PC Party of Ontario",
+            "Votes": "12,697",
+            "Percentage": "52.99%"
+        },
+        {
+            "Candidate": "ANANDARAJAN, ANITA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,316",
+            "Percentage": "34.71%"
+        },
+        {
+            "Candidate": "NAVANEETHAN, THADSHA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,496",
+            "Percentage": "10.42%"
+        },
+        {
+            "Candidate": "GUNJEVIC, ZDRAVKO",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "451",
+            "Percentage": "1.88%"
+        }
+    ],
+    "Scarborough Southwest": [
+        {
+            "Candidate": "BEGUM, DOLY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "14,557",
+            "Percentage": "42.89%"
+        },
+        {
+            "Candidate": "DARAMOLA, ADDIE",
+            "Party": "PC Party of Ontario",
+            "Votes": "10,400",
+            "Percentage": "30.65%"
+        },
+        {
+            "Candidate": "JACKSON, QADIRA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,786",
+            "Percentage": "22.94%"
+        },
+        {
+            "Candidate": "BEKKERING, MARK",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,194",
+            "Percentage": "3.52%"
+        }
+    ],
+    "Scarborough—Agincourt": [
+        {
+            "Candidate": "BABIKIAN, ARIS",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,468",
+            "Percentage": "49.23%"
+        },
+        {
+            "Candidate": "YUEN, PETER",
+            "Party": "Ontario Liberal Party",
+            "Votes": "11,430",
+            "Percentage": "41.78%"
+        },
+        {
+            "Candidate": "POLICARPIO, FRANCESCA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,368",
+            "Percentage": "5.00%"
+        },
+        {
+            "Candidate": "LEBLANC, STEPHANIE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "556",
+            "Percentage": "2.03%"
+        },
+        {
+            "Candidate": "YOGARETNAM, JOHAN",
+            "Party": "New Blue Party",
+            "Votes": "333",
+            "Percentage": "1.22%"
+        },
+        {
+            "Candidate": "MORGAN, DONAHUE",
+            "Party": "Ontario Party",
+            "Votes": "200",
+            "Percentage": "0.73%"
+        }
+    ],
+    "Scarborough—Guildwood": [
+        {
+            "Candidate": "HAZELL, ANDREA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,378",
+            "Percentage": "50.85%"
+        },
+        {
+            "Candidate": "ALOYSIUS, JUDE",
+            "Party": "PC Party of Ontario",
+            "Votes": "10,731",
+            "Percentage": "37.95%"
+        },
+        {
+            "Candidate": "KEAY, CHRISTIAN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,889",
+            "Percentage": "6.68%"
+        },
+        {
+            "Candidate": "MCMAHON, TARA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "699",
+            "Percentage": "2.47%"
+        },
+        {
+            "Candidate": "INTERNICOLA, ANTHONY",
+            "Party": "New Blue Party",
+            "Votes": "309",
+            "Percentage": "1.09%"
+        },
+        {
+            "Candidate": "CLARKE, KEVIN",
+            "Party": "INDEPENDENT",
+            "Votes": "171",
+            "Percentage": "0.60%"
+        },
+        {
+            "Candidate": "CATO, KINGSLEY",
+            "Party": "INDEPENDENT",
+            "Votes": "101",
+            "Percentage": "0.36%"
+        }
+    ],
+    "Scarborough—Rouge Park": [
+        {
+            "Candidate": "THANIGASALAM, VIJAY",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,357",
+            "Percentage": "49.17%"
+        },
+        {
+            "Candidate": "BECKFORD, MORRIS",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,385",
+            "Percentage": "40.23%"
+        },
+        {
+            "Candidate": "SIDAT, HIBAH",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,360",
+            "Percentage": "7.09%"
+        },
+        {
+            "Candidate": "JEWT, VICTORIA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "727",
+            "Percentage": "2.19%"
+        },
+        {
+            "Candidate": "JAMES, TIMOTHY",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "326",
+            "Percentage": "0.98%"
+        },
+        {
+            "Candidate": "TANG, WAI KIAT",
+            "Party": "Communist",
+            "Votes": "114",
+            "Percentage": "0.34%"
+        }
+    ],
+    "Simcoe North": [
+        {
+            "Candidate": "DUNLOP, JILL",
+            "Party": "PC Party of Ontario",
+            "Votes": "25,020",
+            "Percentage": "51.70%"
+        },
+        {
+            "Candidate": "ALVAREZ-BARDALES, WALTER",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,268",
+            "Percentage": "27.42%"
+        },
+        {
+            "Candidate": "MALCOLM, JORDI",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,790",
+            "Percentage": "9.90%"
+        },
+        {
+            "Candidate": "CARR, CHRIS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "3,177",
+            "Percentage": "6.56%"
+        },
+        {
+            "Candidate": "BRUNELLE, DAVE",
+            "Party": "New Blue Party",
+            "Votes": "1,562",
+            "Percentage": "3.23%"
+        },
+        {
+            "Candidate": "JOSLIN, WILLIAM",
+            "Party": "Libertarian",
+            "Votes": "578",
+            "Percentage": "1.19%"
+        }
+    ],
+    "Simcoe—Grey": [
+        {
+            "Candidate": "SAUNDERSON, BRIAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "30,572",
+            "Percentage": "53.55%"
+        },
+        {
+            "Candidate": "CRYSLER, TED",
+            "Party": "Ontario Liberal Party",
+            "Votes": "18,549",
+            "Percentage": "32.49%"
+        },
+        {
+            "Candidate": "TINKLER, BENTEN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,264",
+            "Percentage": "5.72%"
+        },
+        {
+            "Candidate": "KUHN, ALLAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "3,154",
+            "Percentage": "5.52%"
+        },
+        {
+            "Candidate": "GHOBRIAL, DAVID",
+            "Party": "New Blue Party",
+            "Votes": "1,554",
+            "Percentage": "2.72%"
+        }
+    ],
+    "Spadina—Fort York": [
+        {
+            "Candidate": "GLOVER, CHRIS",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "20,016",
+            "Percentage": "44.68%"
+        },
+        {
+            "Candidate": "ENGELBERG, APRIL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,192",
+            "Percentage": "31.68%"
+        },
+        {
+            "Candidate": "FARHAT, OMAR",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,087",
+            "Percentage": "20.28%"
+        },
+        {
+            "Candidate": "MACKLEM, PATRICK",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,204",
+            "Percentage": "2.69%"
+        },
+        {
+            "Candidate": "SHAW, RON",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "303",
+            "Percentage": "0.68%"
+        }
+    ],
+    "St. Catharines": [
+        {
+            "Candidate": "STEVENS, JENNIE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "19,688",
+            "Percentage": "41.98%"
+        },
+        {
+            "Candidate": "SORRENTO, SAL",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,423",
+            "Percentage": "35.02%"
+        },
+        {
+            "Candidate": "MCPHERSON, ROBIN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,092",
+            "Percentage": "17.26%"
+        },
+        {
+            "Candidate": "VINCELETTE-SMITH, STEPHEN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,159",
+            "Percentage": "2.47%"
+        },
+        {
+            "Candidate": "ATALICK, ROB",
+            "Party": "New Blue Party",
+            "Votes": "805",
+            "Percentage": "1.72%"
+        },
+        {
+            "Candidate": "BENOIT, NATALIA",
+            "Party": "Stop the New Sex-Ed Agenda",
+            "Votes": "347",
+            "Percentage": "0.74%"
+        },
+        {
+            "Candidate": "LEEUWENBURG, LIZ",
+            "Party": "Ontario Party",
+            "Votes": "300",
+            "Percentage": "0.64%"
+        },
+        {
+            "Candidate": "O'DONNELL, J. JUSTIN",
+            "Party": "Alliance",
+            "Votes": "82",
+            "Percentage": "0.17%"
+        }
+    ],
+    "Stormont—Dundas—South Glengarry": [
+        {
+            "Candidate": "QUINN, NOLAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "23,846",
+            "Percentage": "62.03%"
+        },
+        {
+            "Candidate": "MONKHOUSE, DEVON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,346",
+            "Percentage": "19.11%"
+        },
+        {
+            "Candidate": "ROSE, JEREMY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,760",
+            "Percentage": "12.38%"
+        },
+        {
+            "Candidate": "LAPIERRE, NICHOLAS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "969",
+            "Percentage": "2.52%"
+        },
+        {
+            "Candidate": "KOHUT, STEFAN",
+            "Party": "New Blue Party",
+            "Votes": "812",
+            "Percentage": "2.11%"
+        },
+        {
+            "Candidate": "SUGRUE, BRIGITTE",
+            "Party": "Ontario Party",
+            "Votes": "710",
+            "Percentage": "1.85%"
+        }
+    ],
+    "Sudbury": [
+        {
+            "Candidate": "WEST, JAMIE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "14,765",
+            "Percentage": "46.44%"
+        },
+        {
+            "Candidate": "MASSIMILIANO, MAX",
+            "Party": "PC Party of Ontario",
+            "Votes": "12,194",
+            "Percentage": "38.35%"
+        },
+        {
+            "Candidate": "CHOUDHRY, RASHID MUKHTAR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "3,352",
+            "Percentage": "10.54%"
+        },
+        {
+            "Candidate": "ROBINSON, DAVID",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "747",
+            "Percentage": "2.35%"
+        },
+        {
+            "Candidate": "LEGAULT, BRADY",
+            "Party": "New Blue Party",
+            "Votes": "421",
+            "Percentage": "1.32%"
+        },
+        {
+            "Candidate": "POPESCU, J. DAVID",
+            "Party": "INDEPENDENT",
+            "Votes": "317",
+            "Percentage": "1.00%"
+        }
+    ],
+    "Thornhill": [
+        {
+            "Candidate": "SMITH, LAURA",
+            "Party": "PC Party of Ontario",
+            "Votes": "22,829",
+            "Percentage": "63.99%"
+        },
+        {
+            "Candidate": "DOOLEY, BEN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,105",
+            "Percentage": "28.32%"
+        },
+        {
+            "Candidate": "QURESHI, FAIZ",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,282",
+            "Percentage": "3.59%"
+        },
+        {
+            "Candidate": "LEVY, MARCELO",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "768",
+            "Percentage": "2.15%"
+        },
+        {
+            "Candidate": "MELE, LUCA",
+            "Party": "New Blue Party",
+            "Votes": "523",
+            "Percentage": "1.47%"
+        },
+        {
+            "Candidate": "POLYAKOV, ALEKSEI",
+            "Party": "Ontario Moderate Party",
+            "Votes": "170",
+            "Percentage": "0.48%"
+        }
+    ],
+    "Thunder Bay—Atikokan": [
+        {
+            "Candidate": "HOLLAND, KEVIN",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,727",
+            "Percentage": "45.71%"
+        },
+        {
+            "Candidate": "MONTEITH-FARRELL, JUDITH",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "7,766",
+            "Percentage": "25.86%"
+        },
+        {
+            "Candidate": "MARGARIT, STEPHEN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,397",
+            "Percentage": "24.63%"
+        },
+        {
+            "Candidate": "TEMPELMAN, MARTIN",
+            "Party": "New Blue Party",
+            "Votes": "498",
+            "Percentage": "1.66%"
+        },
+        {
+            "Candidate": "ARNER, ERIC",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "457",
+            "Percentage": "1.52%"
+        },
+        {
+            "Candidate": "JONES, K.C.",
+            "Party": "Northern Ontario Party",
+            "Votes": "184",
+            "Percentage": "0.61%"
+        }
+    ],
+    "Thunder Bay—Superior North": [
+        {
+            "Candidate": "VAUGEOIS, LISE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "11,290",
+            "Percentage": "40.91%"
+        },
+        {
+            "Candidate": "DUMAS, RICK",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,338",
+            "Percentage": "33.83%"
+        },
+        {
+            "Candidate": "HAMILTON, BRIAN",
+            "Party": "Ontario Liberal Party",
+            "Votes": "5,852",
+            "Percentage": "21.20%"
+        },
+        {
+            "Candidate": "NORTHEY, JOHN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "441",
+            "Percentage": "1.60%"
+        },
+        {
+            "Candidate": "CAMPBELL, DANIEL K.",
+            "Party": "Northern Ontario Party",
+            "Votes": "331",
+            "Percentage": "1.20%"
+        },
+        {
+            "Candidate": "SUUTARI, KATHERINE",
+            "Party": "New Blue Party",
+            "Votes": "266",
+            "Percentage": "0.96%"
+        },
+        {
+            "Candidate": "HANSSEN, STEVE",
+            "Party": "INDEPENDENT",
+            "Votes": "82",
+            "Percentage": "0.30%"
+        }
+    ],
+    "Timiskaming—Cochrane": [
+        {
+            "Candidate": "VANTHOF, JOHN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "11,245",
+            "Percentage": "44.09%"
+        },
+        {
+            "Candidate": "DELAURIER, TORY",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,632",
+            "Percentage": "37.77%"
+        },
+        {
+            "Candidate": "ELLSMERE, RICK",
+            "Party": "Ontario Liberal Party",
+            "Votes": "2,472",
+            "Percentage": "9.69%"
+        },
+        {
+            "Candidate": "RIVARD, KRIS",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,370",
+            "Percentage": "5.37%"
+        },
+        {
+            "Candidate": "MACLEOD, STEPHEN",
+            "Party": "New Blue Party",
+            "Votes": "785",
+            "Percentage": "3.08%"
+        }
+    ],
+    "Timmins": [
+        {
+            "Candidate": "PIRIE, GEORGE",
+            "Party": "PC Party of Ontario",
+            "Votes": "9,431",
+            "Percentage": "68.55%"
+        },
+        {
+            "Candidate": "LEPAGE, COREY",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "2,732",
+            "Percentage": "19.86%"
+        },
+        {
+            "Candidate": "CASTO, DOMINIC",
+            "Party": "Ontario Liberal Party",
+            "Votes": "1,127",
+            "Percentage": "8.19%"
+        },
+        {
+            "Candidate": "YELLE, MARIE-JOSÉE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "248",
+            "Percentage": "1.80%"
+        },
+        {
+            "Candidate": "FARRELL, DAVID",
+            "Party": "New Blue Party",
+            "Votes": "220",
+            "Percentage": "1.60%"
+        }
+    ],
+    "Toronto Centre": [
+        {
+            "Candidate": "WONG-TAM, KRISTYN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "17,415",
+            "Percentage": "44.50%"
+        },
+        {
+            "Candidate": "RASKY, HOLLY",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,152",
+            "Percentage": "36.16%"
+        },
+        {
+            "Candidate": "FARKAS, RUTH",
+            "Party": "PC Party of Ontario",
+            "Votes": "5,692",
+            "Percentage": "14.54%"
+        },
+        {
+            "Candidate": "MASSEY, ANDREW",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,056",
+            "Percentage": "2.70%"
+        },
+        {
+            "Candidate": "AHMAD, SANA",
+            "Party": "Progress Party Ontario",
+            "Votes": "381",
+            "Percentage": "0.97%"
+        },
+        {
+            "Candidate": "HOEHLMANN, STEVE",
+            "Party": "New Blue Party",
+            "Votes": "290",
+            "Percentage": "0.74%"
+        },
+        {
+            "Candidate": "DEVILLE, CORY",
+            "Party": "INDEPENDENT",
+            "Votes": "151",
+            "Percentage": "0.39%"
+        }
+    ],
+    "Toronto—Danforth": [
+        {
+            "Candidate": "TABUNS, PETER",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "25,627",
+            "Percentage": "60.42%"
+        },
+        {
+            "Candidate": "TARAS, CONNOR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "8,994",
+            "Percentage": "21.21%"
+        },
+        {
+            "Candidate": "RATKOWSKI, ADAM",
+            "Party": "PC Party of Ontario",
+            "Votes": "6,172",
+            "Percentage": "14.55%"
+        },
+        {
+            "Candidate": "WRIGHT, ORLANDO",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,196",
+            "Percentage": "2.82%"
+        },
+        {
+            "Candidate": "GRAHAM, STEPHEN",
+            "Party": "New Blue Party",
+            "Votes": "424",
+            "Percentage": "1.00%"
+        }
+    ],
+    "Toronto—St. Paul's": [
+        {
+            "Candidate": "SMYTH, STEPHANIE",
+            "Party": "Ontario Liberal Party",
+            "Votes": "17,421",
+            "Percentage": "40.88%"
+        },
+        {
+            "Candidate": "ANDREW, JILL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "13,524",
+            "Percentage": "31.74%"
+        },
+        {
+            "Candidate": "BRAUNSTEIN, RILEY",
+            "Party": "PC Party of Ontario",
+            "Votes": "10,799",
+            "Percentage": "25.34%"
+        },
+        {
+            "Candidate": "TANGPONGPRUSH, CHLOE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "871",
+            "Percentage": "2.04%"
+        }
+    ],
+    "University—Rosedale": [
+        {
+            "Candidate": "BELL, JESSICA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "18,627",
+            "Percentage": "46.72%"
+        },
+        {
+            "Candidate": "JEFFERY, PAM",
+            "Party": "Ontario Liberal Party",
+            "Votes": "12,104",
+            "Percentage": "30.36%"
+        },
+        {
+            "Candidate": "POTHAKOS, SYDNEY",
+            "Party": "PC Party of Ontario",
+            "Votes": "7,592",
+            "Percentage": "19.04%"
+        },
+        {
+            "Candidate": "MONGRELL, IGNACIO",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,253",
+            "Percentage": "3.14%"
+        },
+        {
+            "Candidate": "HARRIS, DYLAN",
+            "Party": "New Blue Party",
+            "Votes": "293",
+            "Percentage": "0.73%"
+        }
+    ],
+    "Vaughan—Woodbridge": [
+        {
+            "Candidate": "TIBOLLO, MICHAEL",
+            "Party": "PC Party of Ontario",
+            "Votes": "23,243",
+            "Percentage": "65.13%"
+        },
+        {
+            "Candidate": "ANSARI, HAMZA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "9,482",
+            "Percentage": "26.57%"
+        },
+        {
+            "Candidate": "GENC, ELIF",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,479",
+            "Percentage": "4.14%"
+        },
+        {
+            "Candidate": "PILURIS, PHILIP",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "628",
+            "Percentage": "1.76%"
+        },
+        {
+            "Candidate": "CHIARIZIA, PASQUALE",
+            "Party": "New Blue Party",
+            "Votes": "509",
+            "Percentage": "1.43%"
+        },
+        {
+            "Candidate": "GRECO, MARIO",
+            "Party": "Populist Ontario",
+            "Votes": "345",
+            "Percentage": "0.97%"
+        }
+    ],
+    "Waterloo": [
+        {
+            "Candidate": "FIFE, CATHERINE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "25,055",
+            "Percentage": "50.23%"
+        },
+        {
+            "Candidate": "TURKINGTON, PETER",
+            "Party": "PC Party of Ontario",
+            "Votes": "13,670",
+            "Percentage": "27.40%"
+        },
+        {
+            "Candidate": "MOORE, CLAYTON",
+            "Party": "Ontario Liberal Party",
+            "Votes": "7,839",
+            "Percentage": "15.71%"
+        },
+        {
+            "Candidate": "ESMAIL, SHEFAZA",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,814",
+            "Percentage": "3.64%"
+        },
+        {
+            "Candidate": "BIBER, SUJA",
+            "Party": "New Blue Party",
+            "Votes": "543",
+            "Percentage": "1.09%"
+        },
+        {
+            "Candidate": "MARTIN, CHRIS",
+            "Party": "Ontario Party",
+            "Votes": "477",
+            "Percentage": "0.96%"
+        },
+        {
+            "Candidate": "SCHULZ, JAMES",
+            "Party": "Libertarian",
+            "Votes": "325",
+            "Percentage": "0.65%"
+        },
+        {
+            "Candidate": "HOUSE, PETER",
+            "Party": "Electoral Reform Party",
+            "Votes": "161",
+            "Percentage": "0.32%"
+        }
+    ],
+    "Wellington—Halton Hills": [
+        {
+            "Candidate": "RACINSKY, JOSEPH",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,429",
+            "Percentage": "45.26%"
+        },
+        {
+            "Candidate": "HILSON, ALEX",
+            "Party": "Ontario Liberal Party",
+            "Votes": "14,874",
+            "Percentage": "27.56%"
+        },
+        {
+            "Candidate": "WILTON, BRONWYNNE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "8,462",
+            "Percentage": "15.68%"
+        },
+        {
+            "Candidate": "KENT, SIMONE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,154",
+            "Percentage": "7.70%"
+        },
+        {
+            "Candidate": "KITRAS, STEPHEN",
+            "Party": "New Blue Party",
+            "Votes": "1,452",
+            "Percentage": "2.69%"
+        },
+        {
+            "Candidate": "MEDLAND, JASON",
+            "Party": "Ontario Party",
+            "Votes": "399",
+            "Percentage": "0.74%"
+        },
+        {
+            "Candidate": "PATAVA, RON",
+            "Party": "INDEPENDENT",
+            "Votes": "199",
+            "Percentage": "0.37%"
+        }
+    ],
+    "Whitby": [
+        {
+            "Candidate": "COE, LORNE",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,783",
+            "Percentage": "48.08%"
+        },
+        {
+            "Candidate": "GORDON, ROGER",
+            "Party": "Ontario Liberal Party",
+            "Votes": "20,440",
+            "Percentage": "39.66%"
+        },
+        {
+            "Candidate": "NYE, JAMIE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "4,097",
+            "Percentage": "7.95%"
+        },
+        {
+            "Candidate": "TOMAN, STEVEN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "1,376",
+            "Percentage": "2.67%"
+        },
+        {
+            "Candidate": "BLANK, RALPH",
+            "Party": "New Blue Party",
+            "Votes": "844",
+            "Percentage": "1.64%"
+        }
+    ],
+    "Willowdale": [
+        {
+            "Candidate": "CHO, STAN",
+            "Party": "PC Party of Ontario",
+            "Votes": "14,212",
+            "Percentage": "46.12%"
+        },
+        {
+            "Candidate": "SAGUIL, PAUL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "13,735",
+            "Percentage": "44.57%"
+        },
+        {
+            "Candidate": "IVANOV, BORIS",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,669",
+            "Percentage": "5.42%"
+        },
+        {
+            "Candidate": "VETTESE, SHAROLYN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "771",
+            "Percentage": "2.50%"
+        },
+        {
+            "Candidate": "GOYAL, PIT",
+            "Party": "Progress Party Ontario",
+            "Votes": "217",
+            "Percentage": "0.70%"
+        },
+        {
+            "Candidate": "EKLISHAEVA, LILYA",
+            "Party": "INDEPENDENT",
+            "Votes": "214",
+            "Percentage": "0.69%"
+        }
+    ],
+    "Windsor West": [
+        {
+            "Candidate": "GRETZKY, LISA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "19,392",
+            "Percentage": "52.12%"
+        },
+        {
+            "Candidate": "FRANCIS, TONY",
+            "Party": "PC Party of Ontario",
+            "Votes": "14,665",
+            "Percentage": "39.42%"
+        },
+        {
+            "Candidate": "GIANCOLA, MATTHEW",
+            "Party": "Ontario Party",
+            "Votes": "1,019",
+            "Percentage": "2.74%"
+        },
+        {
+            "Candidate": "KOLASKY, NICK",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "868",
+            "Percentage": "2.33%"
+        },
+        {
+            "Candidate": "DEWDNEY, MARK",
+            "Party": "None of the Above Direct Democracy Party",
+            "Votes": "740",
+            "Percentage": "1.99%"
+        },
+        {
+            "Candidate": "GRIFFIN, JOSHUA",
+            "Party": "New Blue Party",
+            "Votes": "520",
+            "Percentage": "1.40%"
+        }
+    ],
+    "Windsor—Tecumseh": [
+        {
+            "Candidate": "DOWIE, ANDREW",
+            "Party": "PC Party of Ontario",
+            "Votes": "21,285",
+            "Percentage": "48.15%"
+        },
+        {
+            "Candidate": "GREY-HALL, GEMMA",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "13,721",
+            "Percentage": "31.04%"
+        },
+        {
+            "Candidate": "LOGAN, CONNOR",
+            "Party": "Ontario Liberal Party",
+            "Votes": "6,336",
+            "Percentage": "14.33%"
+        },
+        {
+            "Candidate": "TELLIER, ROXANNE",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "830",
+            "Percentage": "1.88%"
+        },
+        {
+            "Candidate": "GIFFORD, STEVEN",
+            "Party": "Ontario Party",
+            "Votes": "719",
+            "Percentage": "1.63%"
+        },
+        {
+            "Candidate": "SEVO, SOPHIA",
+            "Party": "New Blue Party",
+            "Votes": "707",
+            "Percentage": "1.60%"
+        },
+        {
+            "Candidate": "FORD, KYLE",
+            "Party": "Communist",
+            "Votes": "606",
+            "Percentage": "1.37%"
+        }
+    ],
+    "York Centre": [
+        {
+            "Candidate": "KERZNER, MICHAEL",
+            "Party": "PC Party of Ontario",
+            "Votes": "16,393",
+            "Percentage": "53.95%"
+        },
+        {
+            "Candidate": "NESTICO, SAM",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,829",
+            "Percentage": "35.64%"
+        },
+        {
+            "Candidate": "VAN HALTEREN, NATALIE",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "1,701",
+            "Percentage": "5.60%"
+        },
+        {
+            "Candidate": "MARTIN, COURTNEY",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "663",
+            "Percentage": "2.18%"
+        },
+        {
+            "Candidate": "BLYTHE, JOHNNY",
+            "Party": "New Blue Party",
+            "Votes": "309",
+            "Percentage": "1.02%"
+        },
+        {
+            "Candidate": "POIZNER, LIONEL",
+            "Party": "Party for People with Special Needs",
+            "Votes": "217",
+            "Percentage": "0.71%"
+        },
+        {
+            "Candidate": "ANISMAN, JEFFREY",
+            "Party": "Populist Ontario",
+            "Votes": "139",
+            "Percentage": "0.46%"
+        },
+        {
+            "Candidate": "ISGANDAROV, PARVIZ",
+            "Party": "Ontario Moderate Party",
+            "Votes": "134",
+            "Percentage": "0.44%"
+        }
+    ],
+    "York South—Weston": [
+        {
+            "Candidate": "FIRIN, MOHAMED",
+            "Party": "PC Party of Ontario",
+            "Votes": "11,143",
+            "Percentage": "35.15%"
+        },
+        {
+            "Candidate": "DI GIORGIO, DANIEL",
+            "Party": "Ontario Liberal Party",
+            "Votes": "10,999",
+            "Percentage": "34.70%"
+        },
+        {
+            "Candidate": "HASSAN, FAISAL",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "8,101",
+            "Percentage": "25.56%"
+        },
+        {
+            "Candidate": "BARRERA, LILIAN",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "844",
+            "Percentage": "2.66%"
+        },
+        {
+            "Candidate": "EHIKWE, VICTOR",
+            "Party": "New Blue Party",
+            "Votes": "396",
+            "Percentage": "1.25%"
+        },
+        {
+            "Candidate": "THOMAS, K. ANN",
+            "Party": "INDEPENDENT",
+            "Votes": "215",
+            "Percentage": "0.68%"
+        }
+    ],
+    "York—Simcoe": [
+        {
+            "Candidate": "MULRONEY, CAROLINE",
+            "Party": "PC Party of Ontario",
+            "Votes": "24,705",
+            "Percentage": "59.40%"
+        },
+        {
+            "Candidate": "CHAUDHRY, FATIMA",
+            "Party": "Ontario Liberal Party",
+            "Votes": "9,937",
+            "Percentage": "23.89%"
+        },
+        {
+            "Candidate": "GRAHAM, JUSTIN",
+            "Party": "Ontario NDP/NPD",
+            "Votes": "3,216",
+            "Percentage": "7.73%"
+        },
+        {
+            "Candidate": "BARON, JENNIFER",
+            "Party": "Green Party of Ontario GPO",
+            "Votes": "2,006",
+            "Percentage": "4.82%"
+        },
+        {
+            "Candidate": "FELLMAN, BRENT",
+            "Party": "New Blue Party",
+            "Votes": "841",
+            "Percentage": "2.02%"
+        },
+        {
+            "Candidate": "CONROY, SEAN",
+            "Party": "Libertarian",
+            "Votes": "434",
+            "Percentage": "1.04%"
+        },
+        {
+            "Candidate": "HOLLANDER, ALANA",
+            "Party": "Ontario Party",
+            "Votes": "317",
+            "Percentage": "0.76%"
+        },
+        {
+            "Candidate": "COLAVECCHIA, FRANCO",
+            "Party": "Ontario Moderate Party",
+            "Votes": "138",
+            "Percentage": "0.33%"
+        }
+    ]
+}
